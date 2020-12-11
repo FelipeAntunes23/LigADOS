@@ -1,0 +1,88 @@
+<http://experimento1.org/grafo/2%2C4-d> <http://www.w3.org/2004/02/skos/core#prefLabel> "2,4-d"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/abamectina> <http://www.w3.org/2004/02/skos/core#prefLabel> "abamectina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/acefato> <http://www.w3.org/2004/02/skos/core#prefLabel> "acefato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/acetamiprido> <http://www.w3.org/2004/02/skos/core#prefLabel> "acetamiprido"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/alacloro> <http://www.w3.org/2004/02/skos/core#prefLabel> "alacloro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/ametrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "ametrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/atrazina> <http://www.w3.org/2004/02/skos/core#prefLabel> "atrazina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/azoxistrobina> <http://www.w3.org/2004/02/skos/core#prefLabel> "azoxistrobina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/bentazona> <http://www.w3.org/2004/02/skos/core#prefLabel> "bentazona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/bifentrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "bifentrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/brometo%20de%20metila> <http://www.w3.org/2004/02/skos/core#prefLabel> "brometo de metila"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/carbendazim> <http://www.w3.org/2004/02/skos/core#prefLabel> "carbendazim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/cimoxanil> <http://www.w3.org/2004/02/skos/core#prefLabel> "cimoxanil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/cipermetrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "cipermetrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/ciproconazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "ciproconazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/cletodim> <http://www.w3.org/2004/02/skos/core#prefLabel> "cletodim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/clomazona> <http://www.w3.org/2004/02/skos/core#prefLabel> "clomazona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/cloreto%20de%20mepiquate> <http://www.w3.org/2004/02/skos/core#prefLabel> "cloreto de mepiquate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/clorimurom-et%C3%ADlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "clorimurom-etílico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/clorotalonil> <http://www.w3.org/2004/02/skos/core#prefLabel> "clorotalonil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/clorpirif%C3%B3s> <http://www.w3.org/2004/02/skos/core#prefLabel> "clorpirifós"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/cresoxim-met%C3%ADlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "cresoxim-metílico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/diafentiurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "diafentiurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/dicloreto%20de%20paraquate> <http://www.w3.org/2004/02/skos/core#prefLabel> "dicloreto de paraquate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/dicofol> <http://www.w3.org/2004/02/skos/core#prefLabel> "dicofol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/difenoconazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "difenoconazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/diflubenzurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "diflubenzurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/dimetoato> <http://www.w3.org/2004/02/skos/core#prefLabel> "dimetoato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/diurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "diurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/dodecilbenzeno%20sulfonato%20de%20s%C3%B3dio> <http://www.w3.org/2004/02/skos/core#prefLabel> "dodecilbenzeno sulfonato de sódio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/endosulfam> <http://www.w3.org/2004/02/skos/core#prefLabel> "endosulfam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/enxofre> <http://www.w3.org/2004/02/skos/core#prefLabel> "enxofre"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/epoxiconazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "epoxiconazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/etefom> <http://www.w3.org/2004/02/skos/core#prefLabel> "etefom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/fenoxaprope-p-et%C3%ADlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "fenoxaprope-p-etílico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/fenpiroximato> <http://www.w3.org/2004/02/skos/core#prefLabel> "fenpiroximato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/fipronil> <http://www.w3.org/2004/02/skos/core#prefLabel> "fipronil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/fluazinam> <http://www.w3.org/2004/02/skos/core#prefLabel> "fluazinam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/flumetralina> <http://www.w3.org/2004/02/skos/core#prefLabel> "flumetralina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/flutriafol> <http://www.w3.org/2004/02/skos/core#prefLabel> "flutriafol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/fosfeto%20de%20alum%C3%ADnio> <http://www.w3.org/2004/02/skos/core#prefLabel> "fosfeto de alumínio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/fosfeto%20de%20magn%C3%A9sio> <http://www.w3.org/2004/02/skos/core#prefLabel> "fosfeto de magnésio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/glifosato> <http://www.w3.org/2004/02/skos/core#prefLabel> "glifosato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/glifosato-sal%20de%20isopropilamina> <http://www.w3.org/2004/02/skos/core#prefLabel> "glifosato-sal de isopropilamina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/glufosinato%20-%20sal%20de%20am%C3%B4nio> <http://www.w3.org/2004/02/skos/core#prefLabel> "glufosinato - sal de amônio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/haloxifope-P-met%C3%ADlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "haloxifope-P-metílico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/hexazinona> <http://www.w3.org/2004/02/skos/core#prefLabel> "hexazinona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/imazalil> <http://www.w3.org/2004/02/skos/core#prefLabel> "imazalil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/imazaquim> <http://www.w3.org/2004/02/skos/core#prefLabel> "imazaquim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/imazetapir> <http://www.w3.org/2004/02/skos/core#prefLabel> "imazetapir"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/imidacloprido> <http://www.w3.org/2004/02/skos/core#prefLabel> "imidacloprido"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/lactofem> <http://www.w3.org/2004/02/skos/core#prefLabel> "lactofem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/lambda-cialotrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "lambda-cialotrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/malationa> <http://www.w3.org/2004/02/skos/core#prefLabel> "malationa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/mancozebe> <http://www.w3.org/2004/02/skos/core#prefLabel> "mancozebe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/mesotriona> <http://www.w3.org/2004/02/skos/core#prefLabel> "mesotriona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/metomil> <http://www.w3.org/2004/02/skos/core#prefLabel> "metomil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/metribuzim> <http://www.w3.org/2004/02/skos/core#prefLabel> "metribuzim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/metsulfurom-met%C3%ADlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "metsulfurom-metílico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/MSMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "MSMA"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/nicosulfurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "nicosulfurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/nonil%20fenol%20polietileno%20glicol%20%C3%A9ter> <http://www.w3.org/2004/02/skos/core#prefLabel> "nonil fenol polietileno glicol éter"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/nonilfenol%20etoxilado> <http://www.w3.org/2004/02/skos/core#prefLabel> "nonilfenol etoxilado"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/novalurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "novalurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/%C3%B3leo%20mineral> <http://www.w3.org/2004/02/skos/core#prefLabel> "óleo mineral"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/%C3%B3leo%20vegetal> <http://www.w3.org/2004/02/skos/core#prefLabel> "óleo vegetal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/oxicloreto%20de%20cobre> <http://www.w3.org/2004/02/skos/core#prefLabel> "oxicloreto de cobre"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/%C3%B3xido%20de%20fembutatina> <http://www.w3.org/2004/02/skos/core#prefLabel> "óxido de fembutatina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/parationa-met%C3%ADlica> <http://www.w3.org/2004/02/skos/core#prefLabel> "parationa-metílica"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/permetrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "permetrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/picloram> <http://www.w3.org/2004/02/skos/core#prefLabel> "picloram"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/piriproxifem> <http://www.w3.org/2004/02/skos/core#prefLabel> "piriproxifem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/procimidona> <http://www.w3.org/2004/02/skos/core#prefLabel> "procimidona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/propanil> <http://www.w3.org/2004/02/skos/core#prefLabel> "propanil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/propargito> <http://www.w3.org/2004/02/skos/core#prefLabel> "propargito"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/propiconazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "propiconazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/simazina> <http://www.w3.org/2004/02/skos/core#prefLabel> "simazina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/sulfato%20de%20cobre> <http://www.w3.org/2004/02/skos/core#prefLabel> "sulfato de cobre"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/sulfentrazona> <http://www.w3.org/2004/02/skos/core#prefLabel> "sulfentrazona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/sulfluramida> <http://www.w3.org/2004/02/skos/core#prefLabel> "sulfluramida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/tebuconazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "tebuconazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/tebutiurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "tebutiurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/tetraconazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "tetraconazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/tiodicarbe> <http://www.w3.org/2004/02/skos/core#prefLabel> "tiodicarbe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/tiofanato-met%C3%ADlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "tiofanato-metílico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/tiram> <http://www.w3.org/2004/02/skos/core#prefLabel> "tiram"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/triclopir-butot%C3%ADlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "triclopir-butotílico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo/trifluralina> <http://www.w3.org/2004/02/skos/core#prefLabel> "trifluralina"^^<http://www.w3.org/2001/XMLSchema#string> .

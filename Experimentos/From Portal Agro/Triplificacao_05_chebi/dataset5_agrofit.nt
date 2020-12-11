@@ -1,0 +1,1128 @@
+<http://ligados.agro.org/grafo5/abamectina> <http://www.w3.org/2004/02/skos/core#prefLabel> "abamectina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/abamectina> <http://ligados.agro.org/propriedade/num_anvisa> "A18"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/abamectina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "abamectin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acefato> <http://www.w3.org/2004/02/skos/core#prefLabel> "acefato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acefato> <http://ligados.agro.org/propriedade/num_anvisa> "A02"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acefato> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Acephate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetamiprido> <http://www.w3.org/2004/02/skos/core#prefLabel> "acetamiprido"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetamiprido> <http://ligados.agro.org/propriedade/num_anvisa> "A29"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetamiprido> <http://ligados.agro.org/propriedade/nome_comum_ingles> "acetamiprido"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(E%2CZ%2CZ)-3%2C8%2C11-tetradecatrienila> <http://www.w3.org/2004/02/skos/core#prefLabel> "acetato de (E,Z,Z)-3,8,11-tetradecatrienila"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(E%2CZ%2CZ)-3%2C8%2C11-tetradecatrienila> <http://ligados.agro.org/propriedade/num_anvisa> "A33"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(E%2CZ%2CZ)-3%2C8%2C11-tetradecatrienila> <http://ligados.agro.org/propriedade/nome_comum_ingles> "(E, Z, Z) -3,8,11-tetradecatrienyl acetate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ACETATO%20DE%20(E%2CZ%2CZ)-4%2C7%2C10-TRIDECATRIENILA> <http://www.w3.org/2004/02/skos/core#prefLabel> "ACETATO DE (E,Z,Z)-4,7,10-TRIDECATRIENILA"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ACETATO%20DE%20(E%2CZ%2CZ)-4%2C7%2C10-TRIDECATRIENILA> <http://ligados.agro.org/propriedade/nome_comum_ingles> "(E, Z, Z) -4,7,10-TRIDECATRIENYL ACETATE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(E%2CZ)-3%2C5-dodecadienila> <http://www.w3.org/2004/02/skos/core#prefLabel> "acetato de (E,Z)-3,5-dodecadienila"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(E%2CZ)-3%2C5-dodecadienila> <http://ligados.agro.org/propriedade/num_anvisa> "A37"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(E%2CZ)-3%2C5-dodecadienila> <http://ligados.agro.org/propriedade/nome_comum_ingles> "(E, Z) -3,5-dodecadienyl acetate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(E%2CZ)-3%2C8-tetradecadienila> <http://www.w3.org/2004/02/skos/core#prefLabel> "acetato de (E,Z)-3,8-tetradecadienila"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(E%2CZ)-3%2C8-tetradecadienila> <http://ligados.agro.org/propriedade/num_anvisa> "A35"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(E%2CZ)-3%2C8-tetradecadienila> <http://ligados.agro.org/propriedade/nome_comum_ingles> "(E, Z) -3,8-tetradecadienyl acetate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ACETATO%20DE%20(E4%2CZ7)-4%2C7-TRIDECADIENILA> <http://www.w3.org/2004/02/skos/core#prefLabel> "ACETATO DE (E4,Z7)-4,7-TRIDECADIENILA"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ACETATO%20DE%20(E4%2CZ7)-4%2C7-TRIDECADIENILA> <http://ligados.agro.org/propriedade/nome_comum_ingles> "(E4, Z7) -4,7-TRIDECADIENYL ACETATE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20fentina> <http://www.w3.org/2004/02/skos/core#prefLabel> "acetato de fentina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20fentina> <http://ligados.agro.org/propriedade/num_anvisa> "F59.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20fentina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fentin acetate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(Z%2CE)-9%2C12-tetradecadienil> <http://www.w3.org/2004/02/skos/core#prefLabel> "acetato de (Z,E)-9,12-tetradecadienil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(Z%2CE)-9%2C12-tetradecadienil> <http://ligados.agro.org/propriedade/num_anvisa> "A34"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(Z%2CE)-9%2C12-tetradecadienil> <http://ligados.agro.org/propriedade/nome_comum_ingles> "(Z, E) -9,12-tetradecadienyl acetate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(Z)-11-hexadecenila> <http://www.w3.org/2004/02/skos/core#prefLabel> "acetato de (Z)-11-hexadecenila"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(Z)-11-hexadecenila> <http://ligados.agro.org/propriedade/num_anvisa> "A43"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(Z)-11-hexadecenila> <http://ligados.agro.org/propriedade/nome_comum_ingles> "(Z) -11-hexadecenyl acetate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ACETATO%20DE%20(Z)-5-DODECENILA> <http://www.w3.org/2004/02/skos/core#prefLabel> "ACETATO DE (Z)-5-DODECENILA"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ACETATO%20DE%20(Z)-5-DODECENILA> <http://ligados.agro.org/propriedade/nome_comum_ingles> "(Z) -5-DODECENYL ACETATE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(Z)-7-dodecenila> <http://www.w3.org/2004/02/skos/core#prefLabel> "acetato de (Z)-7-dodecenila"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(Z)-7-dodecenila> <http://ligados.agro.org/propriedade/num_anvisa> "A44"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(Z)-7-dodecenila> <http://ligados.agro.org/propriedade/nome_comum_ingles> "(Z) -7-dodecenyl acetate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Acetato%20de%20(Z)-9-dodecenila> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acetato de (Z)-9-dodecenila"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Acetato%20de%20(Z)-9-dodecenila> <http://ligados.agro.org/propriedade/num_anvisa> "A47"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Acetato%20de%20(Z)-9-dodecenila> <http://ligados.agro.org/propriedade/nome_comum_ingles> "(Z) -9-dodecenyl acetate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(Z)-9-hexadecenila> <http://www.w3.org/2004/02/skos/core#prefLabel> "acetato de (Z)-9-hexadecenila"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(Z)-9-hexadecenila> <http://ligados.agro.org/propriedade/num_anvisa> "A36"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(Z)-9-hexadecenila> <http://ligados.agro.org/propriedade/nome_comum_ingles> "(Z) -9-hexadecenyl acetate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(Z)-9-tetradecenila> <http://www.w3.org/2004/02/skos/core#prefLabel> "acetato de (Z)-9-tetradecenila"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(Z)-9-tetradecenila> <http://ligados.agro.org/propriedade/num_anvisa> "A45"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetato%20de%20(Z)-9-tetradecenila> <http://ligados.agro.org/propriedade/nome_comum_ingles> "(Z) -9-tetradecenyl acetate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetocloro> <http://www.w3.org/2004/02/skos/core#prefLabel> "acetocloro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetocloro> <http://ligados.agro.org/propriedade/num_anvisa> "A24"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acetocloro> <http://ligados.agro.org/propriedade/nome_comum_ingles> "acetochlor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acibenzolar-S-met%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "acibenzolar-S-met�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acibenzolar-S-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "A38"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acibenzolar-S-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "acibenzolar-S-methyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDcido%20giber%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "�cido giber�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDcido%20giber%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "A04"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDcido%20giber%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "gibberellic acid"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDcido%204-indol-3-ilbut%EF%BF%BDrico> <http://www.w3.org/2004/02/skos/core#prefLabel> "�cido 4-indol-3-ilbut�rico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDcido%204-indol-3-ilbut%EF%BF%BDrico> <http://ligados.agro.org/propriedade/num_anvisa> "A31"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDcido%204-indol-3-ilbut%EF%BF%BDrico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "4-indole-3-ylbutyric acid"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acifluorfem> <http://www.w3.org/2004/02/skos/core#prefLabel> "acifluorfem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acifluorfem> <http://ligados.agro.org/propriedade/num_anvisa> "A05"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acifluorfem> <http://ligados.agro.org/propriedade/nome_comum_ingles> "acifluorfem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Acifluorfem-s%EF%BF%BDdico> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acifluorfem-s�dico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Acifluorfem-s%EF%BF%BDdico> <http://ligados.agro.org/propriedade/num_anvisa> "A05-1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Acifluorfem-s%EF%BF%BDdico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Acifluorfem-sodium"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acrinatrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "acrinatrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acrinatrina> <http://ligados.agro.org/propriedade/num_anvisa> "A22"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/acrinatrina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "acrinatrine"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/alacloro> <http://www.w3.org/2004/02/skos/core#prefLabel> "alacloro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/alacloro> <http://ligados.agro.org/propriedade/num_anvisa> "A06"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/alacloro> <http://ligados.agro.org/propriedade/nome_comum_ingles> "alachlor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/alanicarbe> <http://www.w3.org/2004/02/skos/core#prefLabel> "alanicarbe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/alanicarbe> <http://ligados.agro.org/propriedade/num_anvisa> "A27"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/alanicarbe> <http://ligados.agro.org/propriedade/nome_comum_ingles> "alanicarb"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDlcool%20laur%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "�lcool laur�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDlcool%20laur%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "A46"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDlcool%20laur%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "lauryl alcohol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/aldicarbe> <http://www.w3.org/2004/02/skos/core#prefLabel> "aldicarbe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/aldicarbe> <http://ligados.agro.org/propriedade/num_anvisa> "A07"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/aldicarbe> <http://ligados.agro.org/propriedade/nome_comum_ingles> "aldicarb"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/alfa-cipermetrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "alfa-cipermetrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/alfa-cipermetrina> <http://ligados.agro.org/propriedade/num_anvisa> "C58"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/alfa-cipermetrina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "alpha-cypermethrin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ametrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "ametrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ametrina> <http://ligados.agro.org/propriedade/num_anvisa> "A11"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ametrina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "ametrine"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/amicarbazona> <http://www.w3.org/2004/02/skos/core#prefLabel> "amicarbazona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/amicarbazona> <http://ligados.agro.org/propriedade/num_anvisa> "A41"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/amicarbazona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "amicarbazone"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Aminopiralide> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aminopiralide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Aminopiralide> <http://ligados.agro.org/propriedade/num_anvisa> "A53"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Aminopiralide> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Aminopyralide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/amitraz> <http://www.w3.org/2004/02/skos/core#prefLabel> "amitraz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/amitraz> <http://ligados.agro.org/propriedade/num_anvisa> "A23"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/amitraz> <http://ligados.agro.org/propriedade/nome_comum_ingles> "amitraz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/anilazina> <http://www.w3.org/2004/02/skos/core#prefLabel> "anilazina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/anilazina> <http://ligados.agro.org/propriedade/num_anvisa> "A15"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/anilazina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "anilazine"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Aspergillus%20flavus%20NRRL%2021882> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aspergillus flavus NRRL 21882"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Aspergillus%20flavus%20NRRL%2021882> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Aspergillus flavus NRRL 21882"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/asulam> <http://www.w3.org/2004/02/skos/core#prefLabel> "asulam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/asulam> <http://ligados.agro.org/propriedade/num_anvisa> "A12"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/asulam> <http://ligados.agro.org/propriedade/nome_comum_ingles> "asulam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/atrazina> <http://www.w3.org/2004/02/skos/core#prefLabel> "atrazina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/atrazina> <http://ligados.agro.org/propriedade/num_anvisa> "A14"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/atrazina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "atrazine"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/azadiractina> <http://www.w3.org/2004/02/skos/core#prefLabel> "azadiractina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/azadiractina> <http://ligados.agro.org/propriedade/num_anvisa> "A54"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/azadiractina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "azadiractin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/azimsulfurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "azimsulfurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/azimsulfurom> <http://ligados.agro.org/propriedade/num_anvisa> "A30"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/azimsulfurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "azimsulfurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/azociclotina> <http://www.w3.org/2004/02/skos/core#prefLabel> "azociclotina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/azociclotina> <http://ligados.agro.org/propriedade/num_anvisa> "A19"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/azociclotina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "azocyclotine"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/azoxistrobina> <http://www.w3.org/2004/02/skos/core#prefLabel> "azoxistrobina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/azoxistrobina> <http://ligados.agro.org/propriedade/num_anvisa> "A26"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/azoxistrobina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "azoxystrobin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Bacillus%20thuringiensis> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bacillus thuringiensis"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Bacillus%20thuringiensis> <http://ligados.agro.org/propriedade/num_anvisa> "B01"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Bacillus%20thuringiensis> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Bacillus thuringiensis"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Baculovirus%20anticarsia> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baculovirus anticarsia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Baculovirus%20anticarsia> <http://ligados.agro.org/propriedade/num_anvisa> "B30"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Baculovirus%20anticarsia> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Anticarsia baculovirus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Beauveria%20bassiana> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beauveria bassiana"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Beauveria%20bassiana> <http://ligados.agro.org/propriedade/num_anvisa> "B40"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Beauveria%20bassiana> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Beauveria bassiana"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/benalaxil> <http://www.w3.org/2004/02/skos/core#prefLabel> "benalaxil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/benalaxil> <http://ligados.agro.org/propriedade/num_anvisa> "B38"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/benalaxil> <http://ligados.agro.org/propriedade/nome_comum_ingles> "benalaxil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/benfuracarbe> <http://www.w3.org/2004/02/skos/core#prefLabel> "benfuracarbe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/benfuracarbe> <http://ligados.agro.org/propriedade/num_anvisa> "B35"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/benfuracarbe> <http://ligados.agro.org/propriedade/nome_comum_ingles> "benfuracarbe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bentazona> <http://www.w3.org/2004/02/skos/core#prefLabel> "bentazona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bentazona> <http://ligados.agro.org/propriedade/num_anvisa> "B03"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bentazona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "bentazone"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/BENTIAVALICARBE%20ISOPROP%EF%BF%BDLICO> <http://www.w3.org/2004/02/skos/core#prefLabel> "BENTIAVALICARBE ISOPROP�LICO"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/BENTIAVALICARBE%20ISOPROP%EF%BF%BDLICO> <http://ligados.agro.org/propriedade/num_anvisa> "B42"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/BENTIAVALICARBE%20ISOPROP%EF%BF%BDLICO> <http://ligados.agro.org/propriedade/nome_comum_ingles> "BENTIAVALICARBE ISOPROPYLIC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/benziladenina> <http://www.w3.org/2004/02/skos/core#prefLabel> "benziladenina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/benziladenina> <http://ligados.agro.org/propriedade/num_anvisa> "B39"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/benziladenina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "benzyladenine"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/beta-ciflutrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "beta-ciflutrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/beta-ciflutrina> <http://ligados.agro.org/propriedade/num_anvisa> "C61"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/beta-ciflutrina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "beta-cyfluthrin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Beta-Cipermetrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beta-Cipermetrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Beta-Cipermetrina> <http://ligados.agro.org/propriedade/num_anvisa> "C59"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Beta-Cipermetrina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Beta-Cypermethrin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bicarbonato%20de%20pot%EF%BF%BDssio> <http://www.w3.org/2004/02/skos/core#prefLabel> "bicarbonato de pot�ssio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bicarbonato%20de%20pot%EF%BF%BDssio> <http://ligados.agro.org/propriedade/num_anvisa> "B37"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bicarbonato%20de%20pot%EF%BF%BDssio> <http://ligados.agro.org/propriedade/nome_comum_ingles> "potassium bicarbonate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bifentrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "bifentrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bifentrina> <http://ligados.agro.org/propriedade/num_anvisa> "B26"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bifentrina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "bifenthrin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Bispiribaque-s%EF%BF%BDdico> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bispiribaque-s�dico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Bispiribaque-s%EF%BF%BDdico> <http://ligados.agro.org/propriedade/num_anvisa> "B33.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Bispiribaque-s%EF%BF%BDdico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Bispiribaque-sodium"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bitertanol> <http://www.w3.org/2004/02/skos/core#prefLabel> "bitertanol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bitertanol> <http://ligados.agro.org/propriedade/num_anvisa> "B24"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bitertanol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "bitertanol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Boscalida> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boscalida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Boscalida> <http://ligados.agro.org/propriedade/num_anvisa> "B41"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Boscalida> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Boscalida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bromacila> <http://www.w3.org/2004/02/skos/core#prefLabel> "bromacila"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bromacila> <http://ligados.agro.org/propriedade/num_anvisa> "B11"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bromacila> <http://ligados.agro.org/propriedade/nome_comum_ingles> "bromacila"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/brometo%20de%20metila> <http://www.w3.org/2004/02/skos/core#prefLabel> "brometo de metila"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/brometo%20de%20metila> <http://ligados.agro.org/propriedade/num_anvisa> "B22"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/brometo%20de%20metila> <http://ligados.agro.org/propriedade/nome_comum_ingles> "methyl bromide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bromopropilato> <http://www.w3.org/2004/02/skos/core#prefLabel> "bromopropilato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bromopropilato> <http://ligados.agro.org/propriedade/num_anvisa> "B20"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bromopropilato> <http://ligados.agro.org/propriedade/nome_comum_ingles> "bromopropylate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bromuconazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "bromuconazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bromuconazol> <http://ligados.agro.org/propriedade/num_anvisa> "B32"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/bromuconazol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "bromuconazole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/buprofezina> <http://www.w3.org/2004/02/skos/core#prefLabel> "buprofezina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/buprofezina> <http://ligados.agro.org/propriedade/num_anvisa> "B29"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/buprofezina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "buprofezina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/butralina> <http://www.w3.org/2004/02/skos/core#prefLabel> "butralina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/butralina> <http://ligados.agro.org/propriedade/num_anvisa> "B25"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/butralina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "butralin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/butroxidim> <http://www.w3.org/2004/02/skos/core#prefLabel> "butroxidim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/butroxidim> <http://ligados.agro.org/propriedade/num_anvisa> "B34"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/butroxidim> <http://ligados.agro.org/propriedade/nome_comum_ingles> "butroxidim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cadusaf%EF%BF%BDs> <http://www.w3.org/2004/02/skos/core#prefLabel> "cadusaf�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cadusaf%EF%BF%BDs> <http://ligados.agro.org/propriedade/num_anvisa> "C53"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cadusaf%EF%BF%BDs> <http://ligados.agro.org/propriedade/nome_comum_ingles> "cadusaf�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/captana> <http://www.w3.org/2004/02/skos/core#prefLabel> "captana"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/captana> <http://ligados.agro.org/propriedade/num_anvisa> "C02"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/captana> <http://ligados.agro.org/propriedade/nome_comum_ingles> "captana"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/carbaril> <http://www.w3.org/2004/02/skos/core#prefLabel> "carbaril"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/carbaril> <http://ligados.agro.org/propriedade/num_anvisa> "C03"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/carbaril> <http://ligados.agro.org/propriedade/nome_comum_ingles> "barbary"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/carbendazim> <http://www.w3.org/2004/02/skos/core#prefLabel> "carbendazim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/carbendazim> <http://ligados.agro.org/propriedade/num_anvisa> "C24"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/carbendazim> <http://ligados.agro.org/propriedade/nome_comum_ingles> "carbendazim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/carbofurano> <http://www.w3.org/2004/02/skos/core#prefLabel> "carbofurano"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/carbofurano> <http://ligados.agro.org/propriedade/num_anvisa> "C06"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/carbofurano> <http://ligados.agro.org/propriedade/nome_comum_ingles> "carbofuran"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/carbosulfano> <http://www.w3.org/2004/02/skos/core#prefLabel> "carbosulfano"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/carbosulfano> <http://ligados.agro.org/propriedade/num_anvisa> "C26"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/carbosulfano> <http://ligados.agro.org/propriedade/nome_comum_ingles> "carbosulfan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/carboxina> <http://www.w3.org/2004/02/skos/core#prefLabel> "carboxina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/carboxina> <http://ligados.agro.org/propriedade/num_anvisa> "C05"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/carboxina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "carboxine"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/carfentrazona-et%EF%BF%BDlica> <http://www.w3.org/2004/02/skos/core#prefLabel> "carfentrazona-et�lica"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/carfentrazona-et%EF%BF%BDlica> <http://ligados.agro.org/propriedade/num_anvisa> "C49"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/carfentrazona-et%EF%BF%BDlica> <http://ligados.agro.org/propriedade/nome_comum_ingles> "carfentrazone-ethyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Carpropamida> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carpropamida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Carpropamida> <http://ligados.agro.org/propriedade/num_anvisa> "C62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Carpropamida> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Carpropamide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/casugamicina> <http://www.w3.org/2004/02/skos/core#prefLabel> "casugamicina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/casugamicina> <http://ligados.agro.org/propriedade/num_anvisa> "C07"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/casugamicina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "casugamycin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cialofope-but%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "cialofope-but�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cialofope-but%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "C54"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cialofope-but%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "cyhalophope-butyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cianamida> <http://www.w3.org/2004/02/skos/core#prefLabel> "cianamida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cianamida> <http://ligados.agro.org/propriedade/num_anvisa> "C39"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cianamida> <http://ligados.agro.org/propriedade/nome_comum_ingles> "cyanamide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cianazina> <http://www.w3.org/2004/02/skos/core#prefLabel> "cianazina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cianazina> <http://ligados.agro.org/propriedade/num_anvisa> "C08"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cianazina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "cyanazine"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Ciazofamida> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ciazofamida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Ciazofamida> <http://ligados.agro.org/propriedade/num_anvisa> "C66"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Ciazofamida> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Ciazofamide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciazofamida> <http://www.w3.org/2004/02/skos/core#prefLabel> "ciazofamida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciazofamida> <http://ligados.agro.org/propriedade/num_anvisa> "C66"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciazofamida> <http://ligados.agro.org/propriedade/nome_comum_ingles> "cyzofamide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciclanilida> <http://www.w3.org/2004/02/skos/core#prefLabel> "ciclanilida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciclanilida> <http://ligados.agro.org/propriedade/num_anvisa> "C44"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciclanilida> <http://ligados.agro.org/propriedade/nome_comum_ingles> "cyclanilide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciclossulfamurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "ciclossulfamurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciclossulfamurom> <http://ligados.agro.org/propriedade/num_anvisa> "C45"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciclossulfamurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "cyclosulfamuron"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciflutrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "ciflutrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciflutrina> <http://ligados.agro.org/propriedade/num_anvisa> "C30"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciflutrina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "cyfluthrin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cihexatina> <http://www.w3.org/2004/02/skos/core#prefLabel> "cihexatina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cihexatina> <http://ligados.agro.org/propriedade/num_anvisa> "C27"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cihexatina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "cihexatina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cimoxanil> <http://www.w3.org/2004/02/skos/core#prefLabel> "cimoxanil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cimoxanil> <http://ligados.agro.org/propriedade/num_anvisa> "C09"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cimoxanil> <http://ligados.agro.org/propriedade/nome_comum_ingles> "cymoxanil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cinetina> <http://www.w3.org/2004/02/skos/core#prefLabel> "cinetina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cinetina> <http://ligados.agro.org/propriedade/num_anvisa> "C48"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cinetina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "kinetin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cipermetrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "cipermetrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cipermetrina> <http://ligados.agro.org/propriedade/num_anvisa> "C10"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cipermetrina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "cypermethrin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciproconazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "ciproconazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciproconazol> <http://ligados.agro.org/propriedade/num_anvisa> "C36"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciproconazol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "cyproconazole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciprodinil> <http://www.w3.org/2004/02/skos/core#prefLabel> "ciprodinil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciprodinil> <http://ligados.agro.org/propriedade/num_anvisa> "C47"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciprodinil> <http://ligados.agro.org/propriedade/nome_comum_ingles> "ciprodinil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciromazina> <http://www.w3.org/2004/02/skos/core#prefLabel> "ciromazina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciromazina> <http://ligados.agro.org/propriedade/num_anvisa> "C37"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ciromazina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "cyromazine"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cletodim> <http://www.w3.org/2004/02/skos/core#prefLabel> "cletodim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cletodim> <http://ligados.agro.org/propriedade/num_anvisa> "C32"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cletodim> <http://ligados.agro.org/propriedade/nome_comum_ingles> "cletodim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Clodinafope-Propargil> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clodinafope-Propargil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Clodinafope-Propargil> <http://ligados.agro.org/propriedade/num_anvisa> "C 68.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Clodinafope-Propargil> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Clodinafope-Propargil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clofentezina> <http://www.w3.org/2004/02/skos/core#prefLabel> "clofentezina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clofentezina> <http://ligados.agro.org/propriedade/num_anvisa> "C31"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clofentezina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "clofentezine"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clomazona> <http://www.w3.org/2004/02/skos/core#prefLabel> "clomazona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clomazona> <http://ligados.agro.org/propriedade/num_anvisa> "C35"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clomazona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "clomazone"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cloransulam-met%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "cloransulam-met�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cloransulam-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "C50"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cloransulam-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "chloransulam-methyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clorantraniliprole> <http://www.w3.org/2004/02/skos/core#prefLabel> "clorantraniliprole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clorantraniliprole> <http://ligados.agro.org/propriedade/nome_comum_ingles> "chlorantraniliprole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cloreto%20de%20benzalc%EF%BF%BDnio> <http://www.w3.org/2004/02/skos/core#prefLabel> "cloreto de benzalc�nio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cloreto%20de%20benzalc%EF%BF%BDnio> <http://ligados.agro.org/propriedade/num_anvisa> "C52"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cloreto%20de%20benzalc%EF%BF%BDnio> <http://ligados.agro.org/propriedade/nome_comum_ingles> "benzalkonium chloride"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cloreto%20de%20clormequate> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cloreto de clormequate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cloreto%20de%20clormequate> <http://ligados.agro.org/propriedade/num_anvisa> "C15.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cloreto%20de%20clormequate> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Chlormatequate chloride"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cloreto%20de%20Mepiquate> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cloreto de Mepiquate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cloreto%20de%20Mepiquate> <http://ligados.agro.org/propriedade/num_anvisa> "M37.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cloreto%20de%20Mepiquate> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Mepiquate Chloride"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clorfenapir> <http://www.w3.org/2004/02/skos/core#prefLabel> "clorfenapir"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clorfenapir> <http://ligados.agro.org/propriedade/num_anvisa> "C40"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clorfenapir> <http://ligados.agro.org/propriedade/nome_comum_ingles> "chlorfenapyr"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clorfluazurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "clorfluazurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clorfluazurom> <http://ligados.agro.org/propriedade/num_anvisa> "C38"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clorfluazurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "clorfluazurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cloridrato%20de%20aviglicina> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cloridrato de aviglicina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cloridrato%20de%20aviglicina> <http://ligados.agro.org/propriedade/num_anvisa> "A48.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cloridrato%20de%20aviglicina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Aviglycine hydrochloride"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cloridrato%20de%20cartape> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cloridrato de cartape"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cloridrato%20de%20cartape> <http://ligados.agro.org/propriedade/num_anvisa> "C25.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cloridrato%20de%20cartape> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Cartape hydrochloride"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cloridrato%20de%20formetanato> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cloridrato de formetanato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cloridrato%20de%20formetanato> <http://ligados.agro.org/propriedade/num_anvisa> "F40.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cloridrato%20de%20formetanato> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Formethanate hydrochloride"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cloridrato%20de%20propamocarbe> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cloridrato de propamocarbe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cloridrato%20de%20propamocarbe> <http://ligados.agro.org/propriedade/num_anvisa> "P23.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cloridrato%20de%20propamocarbe> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Propamocarb hydrochloride"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clorimurom-et%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "clorimurom-et�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clorimurom-et%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "C29.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clorimurom-et%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "chlorimurom-ethyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clorotalonil> <http://www.w3.org/2004/02/skos/core#prefLabel> "clorotalonil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clorotalonil> <http://ligados.agro.org/propriedade/num_anvisa> "C18"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clorotalonil> <http://ligados.agro.org/propriedade/nome_comum_ingles> "chlorothalonil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clorpirif%EF%BF%BDs> <http://www.w3.org/2004/02/skos/core#prefLabel> "clorpirif�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clorpirif%EF%BF%BDs> <http://ligados.agro.org/propriedade/num_anvisa> "C20"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clorpirif%EF%BF%BDs> <http://ligados.agro.org/propriedade/nome_comum_ingles> "chlorpyrifos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clortal-dimet%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "clortal-dimet�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clortal-dimet%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "C21"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/clortal-dimet%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "chlortal-dimethyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Clotianidina> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clotianidina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Clotianidina> <http://ligados.agro.org/propriedade/num_anvisa> "C64"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Clotianidina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Clothianidin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/codlelure%20(clodem%EF%BF%BDnio)> <http://www.w3.org/2004/02/skos/core#prefLabel> "codlelure (clodem�nio)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/codlelure%20(clodem%EF%BF%BDnio)> <http://ligados.agro.org/propriedade/num_anvisa> "C51"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/codlelure%20(clodem%EF%BF%BDnio)> <http://ligados.agro.org/propriedade/nome_comum_ingles> "codlelure (clodemonium)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cotesia%20flavipes%20(Cameron%2C%201891)> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cotesia flavipes (Cameron, 1891)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Cotesia%20flavipes%20(Cameron%2C%201891)> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Cotesia flavipes (Cameron, 1891)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cresoxim-met%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "cresoxim-met�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cresoxim-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "C56"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cresoxim-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "cresoxim-methyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cromafenozida> <http://www.w3.org/2004/02/skos/core#prefLabel> "cromafenozida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cromafenozida> <http://ligados.agro.org/propriedade/num_anvisa> "C67"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/cromafenozida> <http://ligados.agro.org/propriedade/nome_comum_ingles> "chromafenozide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/daminozida> <http://www.w3.org/2004/02/skos/core#prefLabel> "daminozida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/daminozida> <http://ligados.agro.org/propriedade/num_anvisa> "D34"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/daminozida> <http://ligados.agro.org/propriedade/nome_comum_ingles> "daminozida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dazomete> <http://www.w3.org/2004/02/skos/core#prefLabel> "dazomete"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dazomete> <http://ligados.agro.org/propriedade/num_anvisa> "D04"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dazomete> <http://ligados.agro.org/propriedade/nome_comum_ingles> "dazomete"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/decanol> <http://www.w3.org/2004/02/skos/core#prefLabel> "decanol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/decanol> <http://ligados.agro.org/propriedade/num_anvisa> "D35"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/decanol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "decanol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/deltametrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "deltametrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/deltametrina> <http://ligados.agro.org/propriedade/num_anvisa> "D06"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/deltametrina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "deltamethrin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diafentiurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "diafentiurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diafentiurom> <http://ligados.agro.org/propriedade/num_anvisa> "D41"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diafentiurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "diafentiurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diazinona> <http://www.w3.org/2004/02/skos/core#prefLabel> "diazinona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diazinona> <http://ligados.agro.org/propriedade/num_anvisa> "D10"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diazinona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "diazinone"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Dibrometo%20de%20diquate> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dibrometo de diquate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Dibrometo%20de%20diquate> <http://ligados.agro.org/propriedade/num_anvisa> "D21.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Dibrometo%20de%20diquate> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Diquate dibromide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diclofope-met%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "diclofope-met�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diclofope-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "D12.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diclofope-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "diclofop-methyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diclorana> <http://www.w3.org/2004/02/skos/core#prefLabel> "diclorana"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diclorana> <http://ligados.agro.org/propriedade/num_anvisa> "D29"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diclorana> <http://ligados.agro.org/propriedade/nome_comum_ingles> "dichloran"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Dicloreto%20de%20paraquate> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dicloreto de paraquate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Dicloreto%20de%20paraquate> <http://ligados.agro.org/propriedade/num_anvisa> "P01.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Dicloreto%20de%20paraquate> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Paraquat dichloride"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diclosulam> <http://www.w3.org/2004/02/skos/core#prefLabel> "diclosulam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diclosulam> <http://ligados.agro.org/propriedade/num_anvisa> "D43"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diclosulam> <http://ligados.agro.org/propriedade/nome_comum_ingles> "diclosulam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dicofol> <http://www.w3.org/2004/02/skos/core#prefLabel> "dicofol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dicofol> <http://ligados.agro.org/propriedade/num_anvisa> "D14"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dicofol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "dicofol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/difenoconazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "difenoconazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/difenoconazol> <http://ligados.agro.org/propriedade/num_anvisa> "D36"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/difenoconazol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "diphenoconazole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diflubenzurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "diflubenzurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diflubenzurom> <http://ligados.agro.org/propriedade/num_anvisa> "D17"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diflubenzurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "diflubenzurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dimetenamida> <http://www.w3.org/2004/02/skos/core#prefLabel> "dimetenamida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dimetenamida> <http://ligados.agro.org/propriedade/num_anvisa> "D37"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dimetenamida> <http://ligados.agro.org/propriedade/nome_comum_ingles> "dimethenamide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dimetenamida-p> <http://www.w3.org/2004/02/skos/core#prefLabel> "dimetenamida-p"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dimetenamida-p> <http://ligados.agro.org/propriedade/num_anvisa> "D51"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dimetenamida-p> <http://ligados.agro.org/propriedade/nome_comum_ingles> "dimethenamide-p"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dimetoato> <http://www.w3.org/2004/02/skos/core#prefLabel> "dimetoato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dimetoato> <http://ligados.agro.org/propriedade/num_anvisa> "D18"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dimetoato> <http://ligados.agro.org/propriedade/nome_comum_ingles> "dimethoate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dimetomorfe> <http://www.w3.org/2004/02/skos/core#prefLabel> "dimetomorfe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dimetomorfe> <http://ligados.agro.org/propriedade/num_anvisa> "D39"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dimetomorfe> <http://ligados.agro.org/propriedade/nome_comum_ingles> "dimetomorfe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dinocape> <http://www.w3.org/2004/02/skos/core#prefLabel> "dinocape"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dinocape> <http://ligados.agro.org/propriedade/num_anvisa> "D42"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dinocape> <http://ligados.agro.org/propriedade/nome_comum_ingles> "dinocape"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dissulfotom> <http://www.w3.org/2004/02/skos/core#prefLabel> "dissulfotom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dissulfotom> <http://ligados.agro.org/propriedade/num_anvisa> "D23"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dissulfotom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "disulfoton"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ditianona> <http://www.w3.org/2004/02/skos/core#prefLabel> "ditianona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ditianona> <http://ligados.agro.org/propriedade/num_anvisa> "D24"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ditianona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "dithianone"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "diurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diurom> <http://ligados.agro.org/propriedade/num_anvisa> "D25"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/diurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "diurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dodina> <http://www.w3.org/2004/02/skos/core#prefLabel> "dodina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dodina> <http://ligados.agro.org/propriedade/num_anvisa> "D26"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/dodina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "dodina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Ecklonia%20maxima> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ecklonia maxima"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Ecklonia%20maxima> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Ecklonia maxima"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/edifenf%EF%BF%BDs> <http://www.w3.org/2004/02/skos/core#prefLabel> "edifenf�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/edifenf%EF%BF%BDs> <http://ligados.agro.org/propriedade/num_anvisa> "E01"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/edifenf%EF%BF%BDs> <http://ligados.agro.org/propriedade/nome_comum_ingles> "edifenf�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/endossulfam> <http://www.w3.org/2004/02/skos/core#prefLabel> "endossulfam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/endossulfam> <http://ligados.agro.org/propriedade/num_anvisa> "E02"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/endossulfam> <http://ligados.agro.org/propriedade/nome_comum_ingles> "endosulfan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/enxofre> <http://www.w3.org/2004/02/skos/core#prefLabel> "enxofre"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/enxofre> <http://ligados.agro.org/propriedade/num_anvisa> "E04"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/enxofre> <http://ligados.agro.org/propriedade/nome_comum_ingles> "sulfur"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/epoxiconazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "epoxiconazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/epoxiconazol> <http://ligados.agro.org/propriedade/num_anvisa> "E22"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/epoxiconazol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "epoxiconazole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/esfenvalerato> <http://www.w3.org/2004/02/skos/core#prefLabel> "esfenvalerato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/esfenvalerato> <http://ligados.agro.org/propriedade/num_anvisa> "E18"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/esfenvalerato> <http://ligados.agro.org/propriedade/nome_comum_ingles> "esfenvalerate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/espinosade> <http://www.w3.org/2004/02/skos/core#prefLabel> "espinosade"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/espinosade> <http://ligados.agro.org/propriedade/num_anvisa> "E24"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/espinosade> <http://ligados.agro.org/propriedade/nome_comum_ingles> "spinosad"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/espirodiclofeno> <http://www.w3.org/2004/02/skos/core#prefLabel> "espirodiclofeno"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/espirodiclofeno> <http://ligados.agro.org/propriedade/num_anvisa> "E25"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/espirodiclofeno> <http://ligados.agro.org/propriedade/nome_comum_ingles> "spirodiclofen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/espiromesifeno> <http://www.w3.org/2004/02/skos/core#prefLabel> "espiromesifeno"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/espiromesifeno> <http://ligados.agro.org/propriedade/num_anvisa> "E26"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/espiromesifeno> <http://ligados.agro.org/propriedade/nome_comum_ingles> "spiromesifene"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/estreptomicina> <http://www.w3.org/2004/02/skos/core#prefLabel> "estreptomicina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/estreptomicina> <http://ligados.agro.org/propriedade/num_anvisa> "E15"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/estreptomicina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "streptomycin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etanol> <http://www.w3.org/2004/02/skos/core#prefLabel> "etanol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etanol> <http://ligados.agro.org/propriedade/num_anvisa> "E27"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etanol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "ethanol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etefom> <http://www.w3.org/2004/02/skos/core#prefLabel> "etefom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etefom> <http://ligados.agro.org/propriedade/num_anvisa> "E05"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etefom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "ethephon"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etiona> <http://www.w3.org/2004/02/skos/core#prefLabel> "etiona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etiona> <http://ligados.agro.org/propriedade/num_anvisa> "E07"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etiona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "etiona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Etiprole> <http://www.w3.org/2004/02/skos/core#prefLabel> "Etiprole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Etiprole> <http://ligados.agro.org/propriedade/num_anvisa> "E29"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Etiprole> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Ethiprole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etofenproxi> <http://www.w3.org/2004/02/skos/core#prefLabel> "etofenproxi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etofenproxi> <http://ligados.agro.org/propriedade/num_anvisa> "E19"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etofenproxi> <http://ligados.agro.org/propriedade/nome_comum_ingles> "etophenproxy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etoprof%EF%BF%BDs> <http://www.w3.org/2004/02/skos/core#prefLabel> "etoprof�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etoprof%EF%BF%BDs> <http://ligados.agro.org/propriedade/num_anvisa> "E06"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etoprof%EF%BF%BDs> <http://ligados.agro.org/propriedade/nome_comum_ingles> "etoprof�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etoxazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "etoxazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etoxazol> <http://ligados.agro.org/propriedade/num_anvisa> "E30"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etoxazol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "ethoxazole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etoxissulfurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "etoxissulfurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etoxissulfurom> <http://ligados.agro.org/propriedade/num_anvisa> "E23"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etoxissulfurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "ethoxysulfuron"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etridiazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "etridiazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etridiazol> <http://ligados.agro.org/propriedade/num_anvisa> "E11"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/etridiazol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "etridiazole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/eugenol-metilico> <http://www.w3.org/2004/02/skos/core#prefLabel> "eugenol-metilico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/eugenol-metilico> <http://ligados.agro.org/propriedade/num_anvisa> "E28"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/eugenol-metilico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "eugenol-methyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/E-11-hexadecenol> <http://www.w3.org/2004/02/skos/core#prefLabel> "E-11-hexadecenol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/E-11-hexadecenol> <http://ligados.agro.org/propriedade/num_anvisa> "H11"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/E-11-hexadecenol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "E-11-hexadecenol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/(E)-8-dodecenol> <http://www.w3.org/2004/02/skos/core#prefLabel> "(E)-8-dodecenol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/(E)-8-dodecenol> <http://ligados.agro.org/propriedade/num_anvisa> "D46"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/(E)-8-dodecenol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "(E) -8-dodecenol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/famoxadona> <http://www.w3.org/2004/02/skos/core#prefLabel> "famoxadona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/famoxadona> <http://ligados.agro.org/propriedade/num_anvisa> "F53"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/famoxadona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "famoxadone"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenamidona> <http://www.w3.org/2004/02/skos/core#prefLabel> "fenamidona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenamidona> <http://ligados.agro.org/propriedade/num_anvisa> "F55"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenamidona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fenamidone"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenamif%EF%BF%BDs> <http://www.w3.org/2004/02/skos/core#prefLabel> "fenamif�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenamif%EF%BF%BDs> <http://ligados.agro.org/propriedade/num_anvisa> "F02"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenamif%EF%BF%BDs> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fenamiphos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenarimol> <http://www.w3.org/2004/02/skos/core#prefLabel> "fenarimol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenarimol> <http://ligados.agro.org/propriedade/num_anvisa> "F03"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenarimol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fenarimol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenitrotiona> <http://www.w3.org/2004/02/skos/core#prefLabel> "fenitrotiona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenitrotiona> <http://ligados.agro.org/propriedade/num_anvisa> "F05"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenitrotiona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fenitrothione"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenotiol> <http://www.w3.org/2004/02/skos/core#prefLabel> "fenotiol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenotiol> <http://ligados.agro.org/propriedade/num_anvisa> "F57"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenotiol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "phenothiol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenoxaprope-et%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "fenoxaprope-et�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenoxaprope-et%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "F32-1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenoxaprope-et%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "phenoxaprope-ethyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenoxaprope-P-et%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "fenoxaprope-P-et�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenoxaprope-P-et%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "F32.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenoxaprope-P-et%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "phenoxaprope-P-ethyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenpiroximato> <http://www.w3.org/2004/02/skos/core#prefLabel> "fenpiroximato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenpiroximato> <http://ligados.agro.org/propriedade/num_anvisa> "F37"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenpiroximato> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fenpyroximate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenpropatrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "fenpropatrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenpropatrina> <http://ligados.agro.org/propriedade/num_anvisa> "F28"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenpropatrina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fenpropatrin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenpropimorfe> <http://www.w3.org/2004/02/skos/core#prefLabel> "fenpropimorfe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenpropimorfe> <http://ligados.agro.org/propriedade/num_anvisa> "F24"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fenpropimorfe> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fenpropimorfe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fentiona> <http://www.w3.org/2004/02/skos/core#prefLabel> "fentiona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fentiona> <http://ligados.agro.org/propriedade/num_anvisa> "F07"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fentiona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fentiona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fentoato> <http://www.w3.org/2004/02/skos/core#prefLabel> "fentoato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fentoato> <http://ligados.agro.org/propriedade/num_anvisa> "F33"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fentoato> <http://ligados.agro.org/propriedade/nome_comum_ingles> "phentoate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fipronil> <http://www.w3.org/2004/02/skos/core#prefLabel> "fipronil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fipronil> <http://ligados.agro.org/propriedade/num_anvisa> "F43"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fipronil> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fipronil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flazasulfurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "flazasulfurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flazasulfurom> <http://ligados.agro.org/propriedade/num_anvisa> "F48"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flazasulfurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "flazasulfurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flonicamida> <http://www.w3.org/2004/02/skos/core#prefLabel> "flonicamida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flonicamida> <http://ligados.agro.org/propriedade/num_anvisa> "F62"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flonicamida> <http://ligados.agro.org/propriedade/nome_comum_ingles> "flonicamide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fluazifope-P-but%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "fluazifope-P-but�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fluazifope-P-but%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "F23.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fluazifope-P-but%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fluazifop-P-butyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fluazinam> <http://www.w3.org/2004/02/skos/core#prefLabel> "fluazinam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fluazinam> <http://ligados.agro.org/propriedade/num_anvisa> "F47"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fluazinam> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fluazinam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/FLUBENDIAMIDA> <http://www.w3.org/2004/02/skos/core#prefLabel> "FLUBENDIAMIDA"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/FLUBENDIAMIDA> <http://ligados.agro.org/propriedade/nome_comum_ingles> "FLUBENDIAMIDE"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fludioxonil> <http://www.w3.org/2004/02/skos/core#prefLabel> "fludioxonil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fludioxonil> <http://ligados.agro.org/propriedade/num_anvisa> "F49"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fludioxonil> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fludioxonil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flufenoxurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "flufenoxurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flufenoxurom> <http://ligados.agro.org/propriedade/num_anvisa> "F44"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flufenoxurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "flufenoxurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Flufenpir-et%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flufenpir-et�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Flufenpir-et%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "F60.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Flufenpir-et%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Flufenpir-ethyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flumetralina> <http://www.w3.org/2004/02/skos/core#prefLabel> "flumetralina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flumetralina> <http://ligados.agro.org/propriedade/num_anvisa> "F38"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flumetralina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "flumetraline"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flumetsulam> <http://www.w3.org/2004/02/skos/core#prefLabel> "flumetsulam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flumetsulam> <http://ligados.agro.org/propriedade/num_anvisa> "F39"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flumetsulam> <http://ligados.agro.org/propriedade/nome_comum_ingles> "flumetsulam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flumicloraque-pent%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "flumicloraque-pent�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flumicloraque-pent%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "F45"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flumicloraque-pent%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "flumiclorac-pentyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flumioxazina> <http://www.w3.org/2004/02/skos/core#prefLabel> "flumioxazina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flumioxazina> <http://ligados.agro.org/propriedade/num_anvisa> "F46"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flumioxazina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "flumioxazin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fluopicolide> <http://www.w3.org/2004/02/skos/core#prefLabel> "fluopicolide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fluopicolide> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fluopicolide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fluquinconazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "fluquinconazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fluquinconazol> <http://ligados.agro.org/propriedade/num_anvisa> "F51"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fluquinconazol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fluquinconazole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Fluroxipir> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fluroxipir"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Fluroxipir> <http://ligados.agro.org/propriedade/num_anvisa> "F42"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Fluroxipir> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Fluroxypyr"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Fluroxipir-mept%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fluroxipir-mept�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Fluroxipir-mept%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "F42.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Fluroxipir-mept%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Fluroxypyr-meptylic"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flutriafol> <http://www.w3.org/2004/02/skos/core#prefLabel> "flutriafol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flutriafol> <http://ligados.agro.org/propriedade/num_anvisa> "F36"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/flutriafol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "flutriafol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fluvalinato> <http://www.w3.org/2004/02/skos/core#prefLabel> "fluvalinato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fluvalinato> <http://ligados.agro.org/propriedade/num_anvisa> "F25"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fluvalinato> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fluvalinate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/folpete> <http://www.w3.org/2004/02/skos/core#prefLabel> "folpete"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/folpete> <http://ligados.agro.org/propriedade/num_anvisa> "F14"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/folpete> <http://ligados.agro.org/propriedade/nome_comum_ingles> "folpet"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fomesafem> <http://www.w3.org/2004/02/skos/core#prefLabel> "fomesafem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fomesafem> <http://ligados.agro.org/propriedade/num_anvisa> "F26"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fomesafem> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fomesafem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/foramsulfurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "foramsulfurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/foramsulfurom> <http://ligados.agro.org/propriedade/num_anvisa> "F54"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/foramsulfurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "foramsulfurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/forato> <http://www.w3.org/2004/02/skos/core#prefLabel> "forato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/forato> <http://ligados.agro.org/propriedade/num_anvisa> "F15"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/forato> <http://ligados.agro.org/propriedade/nome_comum_ingles> "forato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fosetil> <http://www.w3.org/2004/02/skos/core#prefLabel> "fosetil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fosetil> <http://ligados.agro.org/propriedade/num_anvisa> "F18"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fosetil> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fosetil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fosfeto%20de%20alum%EF%BF%BDnio> <http://www.w3.org/2004/02/skos/core#prefLabel> "fosfeto de alum�nio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fosfeto%20de%20alum%EF%BF%BDnio> <http://ligados.agro.org/propriedade/num_anvisa> "F20.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fosfeto%20de%20alum%EF%BF%BDnio> <http://ligados.agro.org/propriedade/nome_comum_ingles> "aluminum phosphide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fosfeto%20de%20magn%EF%BF%BDsio> <http://www.w3.org/2004/02/skos/core#prefLabel> "fosfeto de magn�sio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fosfeto%20de%20magn%EF%BF%BDsio> <http://ligados.agro.org/propriedade/num_anvisa> "F20.2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fosfeto%20de%20magn%EF%BF%BDsio> <http://ligados.agro.org/propriedade/nome_comum_ingles> "magnesium phosphide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fosmete> <http://www.w3.org/2004/02/skos/core#prefLabel> "fosmete"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fosmete> <http://ligados.agro.org/propriedade/num_anvisa> "F21"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fosmete> <http://ligados.agro.org/propriedade/nome_comum_ingles> "match"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fostiazato> <http://www.w3.org/2004/02/skos/core#prefLabel> "fostiazato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fostiazato> <http://ligados.agro.org/propriedade/num_anvisa> "F50"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/fostiazato> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fostiazato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ftalida> <http://www.w3.org/2004/02/skos/core#prefLabel> "ftalida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ftalida> <http://ligados.agro.org/propriedade/num_anvisa> "F29"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ftalida> <http://ligados.agro.org/propriedade/nome_comum_ingles> "phthalide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/furatiocarbe> <http://www.w3.org/2004/02/skos/core#prefLabel> "furatiocarbe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/furatiocarbe> <http://ligados.agro.org/propriedade/num_anvisa> "F41"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/furatiocarbe> <http://ligados.agro.org/propriedade/nome_comum_ingles> "furatiocarb"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Gama-cialotrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gama-cialotrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Gama-cialotrina> <http://ligados.agro.org/propriedade/num_anvisa> "C65"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Gama-cialotrina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Gamma-cyhalothrin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/glifosato> <http://www.w3.org/2004/02/skos/core#prefLabel> "glifosato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/glifosato> <http://ligados.agro.org/propriedade/num_anvisa> "G01"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/glifosato> <http://ligados.agro.org/propriedade/nome_comum_ingles> "glyphosate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/glifosato-sal%20de%20am%EF%BF%BDnio> <http://www.w3.org/2004/02/skos/core#prefLabel> "glifosato-sal de am�nio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/glifosato-sal%20de%20am%EF%BF%BDnio> <http://ligados.agro.org/propriedade/num_anvisa> "G01-3"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/glifosato-sal%20de%20am%EF%BF%BDnio> <http://ligados.agro.org/propriedade/nome_comum_ingles> "glyphosate-ammonium salt"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/glifosato-sal%20de%20isopropilamina> <http://www.w3.org/2004/02/skos/core#prefLabel> "glifosato-sal de isopropilamina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/glifosato-sal%20de%20isopropilamina> <http://ligados.agro.org/propriedade/num_anvisa> "G01-1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/glifosato-sal%20de%20isopropilamina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "glyphosate-isopropylamine salt"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/glifosato-sal%20de%20pot%EF%BF%BDssio> <http://www.w3.org/2004/02/skos/core#prefLabel> "glifosato-sal de pot�ssio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/glifosato-sal%20de%20pot%EF%BF%BDssio> <http://ligados.agro.org/propriedade/num_anvisa> "G01-2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/glifosato-sal%20de%20pot%EF%BF%BDssio> <http://ligados.agro.org/propriedade/nome_comum_ingles> "glyphosate-potassium salt"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Glufosinato%20-%20sal%20de%20am%EF%BF%BDnio> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glufosinato - sal de am�nio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Glufosinato%20-%20sal%20de%20am%EF%BF%BDnio> <http://ligados.agro.org/propriedade/num_anvisa> "G05.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Glufosinato%20-%20sal%20de%20am%EF%BF%BDnio> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Glufosinate - ammonium salt"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/gossiplure> <http://www.w3.org/2004/02/skos/core#prefLabel> "gossiplure"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/gossiplure> <http://ligados.agro.org/propriedade/num_anvisa> "G06"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/gossiplure> <http://ligados.agro.org/propriedade/nome_comum_ingles> "gossiplure"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/grandlure%20(I%2C%20II%2C%20III%20e%20IV)> <http://www.w3.org/2004/02/skos/core#prefLabel> "grandlure (I, II, III e IV)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/grandlure%20(I%2C%20II%2C%20III%20e%20IV)> <http://ligados.agro.org/propriedade/num_anvisa> "G03"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/grandlure%20(I%2C%20II%2C%20III%20e%20IV)> <http://ligados.agro.org/propriedade/nome_comum_ingles> "grandlure (I, II, III and IV)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/halossulfurom-met%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "halossulfurom-met�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/halossulfurom-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "H08.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/halossulfurom-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "halosulfurom-methyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/haloxifope-P-met%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "haloxifope-P-met�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/haloxifope-P-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "H07.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/haloxifope-P-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "haloxifop-P-methyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/hexaconazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "hexaconazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/hexaconazol> <http://ligados.agro.org/propriedade/num_anvisa> "H09"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/hexaconazol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "hexaconazole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/hexazinona> <http://www.w3.org/2004/02/skos/core#prefLabel> "hexazinona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/hexazinona> <http://ligados.agro.org/propriedade/num_anvisa> "H02"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/hexazinona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "hexazinone"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/hexitiazoxi> <http://www.w3.org/2004/02/skos/core#prefLabel> "hexitiazoxi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/hexitiazoxi> <http://ligados.agro.org/propriedade/num_anvisa> "H05"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/hexitiazoxi> <http://ligados.agro.org/propriedade/nome_comum_ingles> "hexithiazoxy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/hidrazida%20mal%EF%BF%BDica> <http://www.w3.org/2004/02/skos/core#prefLabel> "hidrazida mal�ica"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/hidrazida%20mal%EF%BF%BDica> <http://ligados.agro.org/propriedade/num_anvisa> "H03"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/hidrazida%20mal%EF%BF%BDica> <http://ligados.agro.org/propriedade/nome_comum_ingles> "maleic hydrazide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/hidr%EF%BF%BDxido%20de%20cobre> <http://www.w3.org/2004/02/skos/core#prefLabel> "hidr�xido de cobre"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/hidr%EF%BF%BDxido%20de%20cobre> <http://ligados.agro.org/propriedade/num_anvisa> "C55.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/hidr%EF%BF%BDxido%20de%20cobre> <http://ligados.agro.org/propriedade/nome_comum_ingles> "copper hydroxide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/hidr%EF%BF%BDxido%20de%20fentina> <http://www.w3.org/2004/02/skos/core#prefLabel> "hidr�xido de fentina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/hidr%EF%BF%BDxido%20de%20fentina> <http://ligados.agro.org/propriedade/num_anvisa> "F59.2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/hidr%EF%BF%BDxido%20de%20fentina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fentin hydroxide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imazalil> <http://www.w3.org/2004/02/skos/core#prefLabel> "imazalil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imazalil> <http://ligados.agro.org/propriedade/num_anvisa> "I19"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imazalil> <http://ligados.agro.org/propriedade/nome_comum_ingles> "imazalil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imazamoxi> <http://www.w3.org/2004/02/skos/core#prefLabel> "imazamoxi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imazamoxi> <http://ligados.agro.org/propriedade/num_anvisa> "I15"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imazamoxi> <http://ligados.agro.org/propriedade/nome_comum_ingles> "imazamoxi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imazapique> <http://www.w3.org/2004/02/skos/core#prefLabel> "imazapique"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imazapique> <http://ligados.agro.org/propriedade/num_anvisa> "I20"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imazapique> <http://ligados.agro.org/propriedade/nome_comum_ingles> "imazapique"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imazapir> <http://www.w3.org/2004/02/skos/core#prefLabel> "imazapir"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imazapir> <http://ligados.agro.org/propriedade/num_anvisa> "I12"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imazapir> <http://ligados.agro.org/propriedade/nome_comum_ingles> "imazapir"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imazaquim> <http://www.w3.org/2004/02/skos/core#prefLabel> "imazaquim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imazaquim> <http://ligados.agro.org/propriedade/num_anvisa> "I08"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imazaquim> <http://ligados.agro.org/propriedade/nome_comum_ingles> "imazaquim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imazetapir> <http://www.w3.org/2004/02/skos/core#prefLabel> "imazetapir"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imazetapir> <http://ligados.agro.org/propriedade/num_anvisa> "I10"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imazetapir> <http://ligados.agro.org/propriedade/nome_comum_ingles> "imazetapir"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imibenconazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "imibenconazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imibenconazol> <http://ligados.agro.org/propriedade/num_anvisa> "I16"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imibenconazol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "imibenconazole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imidacloprido> <http://www.w3.org/2004/02/skos/core#prefLabel> "imidacloprido"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imidacloprido> <http://ligados.agro.org/propriedade/num_anvisa> "I13"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/imidacloprido> <http://ligados.agro.org/propriedade/nome_comum_ingles> "imidacloprid"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/iminoctadina> <http://www.w3.org/2004/02/skos/core#prefLabel> "iminoctadina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/iminoctadina> <http://ligados.agro.org/propriedade/num_anvisa> "I25"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/iminoctadina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "iminoctadine"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Iminoctadina%20tris(albesilato)> <http://www.w3.org/2004/02/skos/core#prefLabel> "Iminoctadina tris(albesilato)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Iminoctadina%20tris(albesilato)> <http://ligados.agro.org/propriedade/num_anvisa> "I25.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Iminoctadina%20tris(albesilato)> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Iminoctadine tris (albesylate)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/indoxacarbe> <http://www.w3.org/2004/02/skos/core#prefLabel> "indoxacarbe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/indoxacarbe> <http://ligados.agro.org/propriedade/num_anvisa> "I21"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/indoxacarbe> <http://ligados.agro.org/propriedade/nome_comum_ingles> "indoxacarb"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/iodosulfurom-met%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "iodosulfurom-met�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/iodosulfurom-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "I22"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/iodosulfurom-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "iodosulfurom-methyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ioxinil> <http://www.w3.org/2004/02/skos/core#prefLabel> "ioxinil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ioxinil> <http://ligados.agro.org/propriedade/num_anvisa> "I04"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/ioxinil> <http://ligados.agro.org/propriedade/nome_comum_ingles> "ioxinil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/iprodiona> <http://www.w3.org/2004/02/skos/core#prefLabel> "iprodiona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/iprodiona> <http://ligados.agro.org/propriedade/num_anvisa> "I05"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/iprodiona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "iprodiona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/iprovalicarbe> <http://www.w3.org/2004/02/skos/core#prefLabel> "iprovalicarbe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/iprovalicarbe> <http://ligados.agro.org/propriedade/num_anvisa> "I24"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/iprovalicarbe> <http://ligados.agro.org/propriedade/nome_comum_ingles> "iprovalicarb"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/isoxaflutol> <http://www.w3.org/2004/02/skos/core#prefLabel> "isoxaflutol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/isoxaflutol> <http://ligados.agro.org/propriedade/num_anvisa> "I18"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/isoxaflutol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "isoxaflutol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/lactofem> <http://www.w3.org/2004/02/skos/core#prefLabel> "lactofem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/lactofem> <http://ligados.agro.org/propriedade/num_anvisa> "L03"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/lactofem> <http://ligados.agro.org/propriedade/nome_comum_ingles> "lactofem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/lambda-cialotrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "lambda-cialotrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/lambda-cialotrina> <http://ligados.agro.org/propriedade/num_anvisa> "C63"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/lambda-cialotrina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "lambda-cyhalothrin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/linurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "linurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/linurom> <http://ligados.agro.org/propriedade/num_anvisa> "L02"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/linurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "linurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/lufenurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "lufenurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/lufenurom> <http://ligados.agro.org/propriedade/num_anvisa> "L05"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/lufenurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "lufenurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/malationa> <http://www.w3.org/2004/02/skos/core#prefLabel> "malationa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/malationa> <http://ligados.agro.org/propriedade/num_anvisa> "M01"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/malationa> <http://ligados.agro.org/propriedade/nome_comum_ingles> "malathion"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/mancozebe> <http://www.w3.org/2004/02/skos/core#prefLabel> "mancozebe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/mancozebe> <http://ligados.agro.org/propriedade/num_anvisa> "M02"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/mancozebe> <http://ligados.agro.org/propriedade/nome_comum_ingles> "mancozebe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/manebe> <http://www.w3.org/2004/02/skos/core#prefLabel> "manebe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/manebe> <http://ligados.agro.org/propriedade/num_anvisa> "M03"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/manebe> <http://ligados.agro.org/propriedade/nome_comum_ingles> "manebe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/MCPA> <http://www.w3.org/2004/02/skos/core#prefLabel> "MCPA"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/MCPA> <http://ligados.agro.org/propriedade/num_anvisa> "M04"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/MCPA> <http://ligados.agro.org/propriedade/nome_comum_ingles> "MCPA"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Mesotriona> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mesotriona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Mesotriona> <http://ligados.agro.org/propriedade/num_anvisa> "M40"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Mesotriona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Mesotrione"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metalaxil-M> <http://www.w3.org/2004/02/skos/core#prefLabel> "metalaxil-M"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metalaxil-M> <http://ligados.agro.org/propriedade/num_anvisa> "M31"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metalaxil-M> <http://ligados.agro.org/propriedade/nome_comum_ingles> "metalaxyl-M"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metamidof%EF%BF%BDs> <http://www.w3.org/2004/02/skos/core#prefLabel> "metamidof�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metamidof%EF%BF%BDs> <http://ligados.agro.org/propriedade/num_anvisa> "M10"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metamidof%EF%BF%BDs> <http://ligados.agro.org/propriedade/nome_comum_ingles> "metamidophos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metamitrona> <http://www.w3.org/2004/02/skos/core#prefLabel> "metamitrona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metamitrona> <http://ligados.agro.org/propriedade/num_anvisa> "M33"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metamitrona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "metamitrone"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Metam-s%EF%BF%BDdico> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metam-s�dico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Metam-s%EF%BF%BDdico> <http://ligados.agro.org/propriedade/num_anvisa> "M28.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Metam-s%EF%BF%BDdico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Metam-sodium"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metanol> <http://www.w3.org/2004/02/skos/core#prefLabel> "metanol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metanol> <http://ligados.agro.org/propriedade/num_anvisa> "M43"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metanol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "methanol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Metarhizium%20anisopliae> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metarhizium anisopliae"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Metarhizium%20anisopliae> <http://ligados.agro.org/propriedade/num_anvisa> "M39"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Metarhizium%20anisopliae> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Metarhizium anisopliae"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metconazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "metconazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metconazol> <http://ligados.agro.org/propriedade/num_anvisa> "M34"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metconazol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "metconazole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metidationa> <http://www.w3.org/2004/02/skos/core#prefLabel> "metidationa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metidationa> <http://ligados.agro.org/propriedade/num_anvisa> "M14"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metidationa> <http://ligados.agro.org/propriedade/nome_comum_ingles> "methidathione"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metilciclopropeno> <http://www.w3.org/2004/02/skos/core#prefLabel> "metilciclopropeno"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metilciclopropeno> <http://ligados.agro.org/propriedade/num_anvisa> "M35"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metilciclopropeno> <http://ligados.agro.org/propriedade/nome_comum_ingles> "methylcyclopropene"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metiocarbe> <http://www.w3.org/2004/02/skos/core#prefLabel> "metiocarbe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metiocarbe> <http://ligados.agro.org/propriedade/num_anvisa> "M30"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metiocarbe> <http://ligados.agro.org/propriedade/nome_comum_ingles> "metiocarb"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metiram> <http://www.w3.org/2004/02/skos/core#prefLabel> "metiram"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metiram> <http://ligados.agro.org/propriedade/num_anvisa> "M15"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metiram> <http://ligados.agro.org/propriedade/nome_comum_ingles> "got in"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metolacloro> <http://www.w3.org/2004/02/skos/core#prefLabel> "metolacloro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metolacloro> <http://ligados.agro.org/propriedade/num_anvisa> "M16"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metolacloro> <http://ligados.agro.org/propriedade/nome_comum_ingles> "metolachlor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metomil> <http://www.w3.org/2004/02/skos/core#prefLabel> "metomil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metomil> <http://ligados.agro.org/propriedade/num_anvisa> "M17"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metomil> <http://ligados.agro.org/propriedade/nome_comum_ingles> "methomyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metoxifenozida> <http://www.w3.org/2004/02/skos/core#prefLabel> "metoxifenozida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metoxifenozida> <http://ligados.agro.org/propriedade/num_anvisa> "M32"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metoxifenozida> <http://ligados.agro.org/propriedade/nome_comum_ingles> "methoxyfenozide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metribuzim> <http://www.w3.org/2004/02/skos/core#prefLabel> "metribuzim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metribuzim> <http://ligados.agro.org/propriedade/num_anvisa> "M19"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metribuzim> <http://ligados.agro.org/propriedade/nome_comum_ingles> "metribuzim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metsulfurom-met%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "metsulfurom-met�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metsulfurom-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "M26.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/metsulfurom-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "metsulfurom-methyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/mevinf%EF%BF%BDs> <http://www.w3.org/2004/02/skos/core#prefLabel> "mevinf�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/mevinf%EF%BF%BDs> <http://ligados.agro.org/propriedade/num_anvisa> "M20"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/mevinf%EF%BF%BDs> <http://ligados.agro.org/propriedade/nome_comum_ingles> "mevinf�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/miclobutanil> <http://www.w3.org/2004/02/skos/core#prefLabel> "miclobutanil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/miclobutanil> <http://ligados.agro.org/propriedade/num_anvisa> "M27"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/miclobutanil> <http://ligados.agro.org/propriedade/nome_comum_ingles> "myclobutanil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/milbemectina> <http://www.w3.org/2004/02/skos/core#prefLabel> "milbemectina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/milbemectina> <http://ligados.agro.org/propriedade/num_anvisa> "M38"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/milbemectina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "milbemectin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/molinato> <http://www.w3.org/2004/02/skos/core#prefLabel> "molinato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/molinato> <http://ligados.agro.org/propriedade/num_anvisa> "M21"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/molinato> <http://ligados.agro.org/propriedade/nome_comum_ingles> "molinate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/MSMA> <http://www.w3.org/2004/02/skos/core#prefLabel> "MSMA"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/MSMA> <http://ligados.agro.org/propriedade/num_anvisa> "M24"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/MSMA> <http://ligados.agro.org/propriedade/nome_comum_ingles> "MSMA"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/napropamida> <http://www.w3.org/2004/02/skos/core#prefLabel> "napropamida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/napropamida> <http://ligados.agro.org/propriedade/num_anvisa> "N02"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/napropamida> <http://ligados.agro.org/propriedade/nome_comum_ingles> "napropamide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/nicossulfurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "nicossulfurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/nicossulfurom> <http://ligados.agro.org/propriedade/num_anvisa> "N08"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/nicossulfurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "nicosulfuron"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/novalurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "novalurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/novalurom> <http://ligados.agro.org/propriedade/num_anvisa> "N09"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/novalurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "novalurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/N-2'S-metilbutil-2-metilbutilamida> <http://www.w3.org/2004/02/skos/core#prefLabel> "N-2'S-metilbutil-2-metilbutilamida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/N-2'S-metilbutil-2-metilbutilamida> <http://ligados.agro.org/propriedade/num_anvisa> "M36"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/N-2'S-metilbutil-2-metilbutilamida> <http://ligados.agro.org/propriedade/nome_comum_ingles> "N-2'S-methylbutyl-2-methylbutylamide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/octanoato%20de%20ioxinila> <http://www.w3.org/2004/02/skos/core#prefLabel> "octanoato de ioxinila"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/octanoato%20de%20ioxinila> <http://ligados.agro.org/propriedade/num_anvisa> "O17"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/octanoato%20de%20ioxinila> <http://ligados.agro.org/propriedade/nome_comum_ingles> "ioxinyl octanoate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDleo%20mineral> <http://www.w3.org/2004/02/skos/core#prefLabel> "�leo mineral"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDleo%20mineral> <http://ligados.agro.org/propriedade/num_anvisa> "O02"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDleo%20mineral> <http://ligados.agro.org/propriedade/nome_comum_ingles> "mineral oil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDleo%20vegetal> <http://www.w3.org/2004/02/skos/core#prefLabel> "�leo vegetal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDleo%20vegetal> <http://ligados.agro.org/propriedade/num_anvisa> "O01"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDleo%20vegetal> <http://ligados.agro.org/propriedade/nome_comum_ingles> "vegetable oil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/orizalina> <http://www.w3.org/2004/02/skos/core#prefLabel> "orizalina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/orizalina> <http://ligados.agro.org/propriedade/num_anvisa> "O04"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/orizalina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "oryzaline"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/oxadiazona> <http://www.w3.org/2004/02/skos/core#prefLabel> "oxadiazona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/oxadiazona> <http://ligados.agro.org/propriedade/num_anvisa> "O06"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/oxadiazona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "oxadiazone"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/oxasulfurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "oxasulfurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/oxasulfurom> <http://ligados.agro.org/propriedade/num_anvisa> "O14"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/oxasulfurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "oxasulfurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/oxicarboxina> <http://www.w3.org/2004/02/skos/core#prefLabel> "oxicarboxina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/oxicarboxina> <http://ligados.agro.org/propriedade/num_anvisa> "O07"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/oxicarboxina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "oxycarboxine"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/oxicloreto%20de%20cobre> <http://www.w3.org/2004/02/skos/core#prefLabel> "oxicloreto de cobre"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/oxicloreto%20de%20cobre> <http://ligados.agro.org/propriedade/num_anvisa> "C55.2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/oxicloreto%20de%20cobre> <http://ligados.agro.org/propriedade/nome_comum_ingles> "copper oxychloride"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDxido%20Cuproso> <http://www.w3.org/2004/02/skos/core#prefLabel> "�xido Cuproso"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDxido%20Cuproso> <http://ligados.agro.org/propriedade/num_anvisa> "C55.3"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDxido%20Cuproso> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Cuprous Oxide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDxido%20de%20fembutatina> <http://www.w3.org/2004/02/skos/core#prefLabel> "�xido de fembutatina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDxido%20de%20fembutatina> <http://ligados.agro.org/propriedade/num_anvisa> "O09"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/%EF%BF%BDxido%20de%20fembutatina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "fembutatin oxide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/oxifluorfem> <http://www.w3.org/2004/02/skos/core#prefLabel> "oxifluorfem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/oxifluorfem> <http://ligados.agro.org/propriedade/num_anvisa> "O10"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/oxifluorfem> <http://ligados.agro.org/propriedade/nome_comum_ingles> "oxyfluorfem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/oxitetraciclina> <http://www.w3.org/2004/02/skos/core#prefLabel> "oxitetraciclina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/oxitetraciclina> <http://ligados.agro.org/propriedade/num_anvisa> "O11"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/oxitetraciclina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "oxytetracycline"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/paclobutrazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "paclobutrazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/paclobutrazol> <http://ligados.agro.org/propriedade/num_anvisa> "P45"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/paclobutrazol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "paclobutrazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Paraquate> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paraquate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Paraquate> <http://ligados.agro.org/propriedade/num_anvisa> "P01"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Paraquate> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Paraquat"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/parationa-met%EF%BF%BDlica> <http://www.w3.org/2004/02/skos/core#prefLabel> "parationa-met�lica"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/parationa-met%EF%BF%BDlica> <http://ligados.agro.org/propriedade/num_anvisa> "P03"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/parationa-met%EF%BF%BDlica> <http://ligados.agro.org/propriedade/nome_comum_ingles> "parathion-methyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Pasteuria%20nishizawae> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pasteuria nishizawae"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Pasteuria%20nishizawae> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Pasteuria nishizawae"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pencicurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "pencicurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pencicurom> <http://ligados.agro.org/propriedade/num_anvisa> "P36"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pencicurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "pencicurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pendimetalina> <http://www.w3.org/2004/02/skos/core#prefLabel> "pendimetalina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pendimetalina> <http://ligados.agro.org/propriedade/num_anvisa> "P05"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pendimetalina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "pendimethalin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Penoxsulam> <http://www.w3.org/2004/02/skos/core#prefLabel> "Penoxsulam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Penoxsulam> <http://ligados.agro.org/propriedade/num_anvisa> "P51"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Penoxsulam> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Penoxsulam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/permetrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "permetrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/permetrina> <http://ligados.agro.org/propriedade/num_anvisa> "P06"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/permetrina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "permethrin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/picloram> <http://www.w3.org/2004/02/skos/core#prefLabel> "picloram"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/picloram> <http://ligados.agro.org/propriedade/num_anvisa> "P07"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/picloram> <http://ligados.agro.org/propriedade/nome_comum_ingles> "picloram"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Picoxistrobina> <http://www.w3.org/2004/02/skos/core#prefLabel> "Picoxistrobina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Picoxistrobina> <http://ligados.agro.org/propriedade/num_anvisa> "P50"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Picoxistrobina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Picoxystrobin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pimetrozina> <http://www.w3.org/2004/02/skos/core#prefLabel> "pimetrozina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pimetrozina> <http://ligados.agro.org/propriedade/num_anvisa> "P52"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pimetrozina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "pymetrozine"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/piraclostrobina> <http://www.w3.org/2004/02/skos/core#prefLabel> "piraclostrobina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/piraclostrobina> <http://ligados.agro.org/propriedade/num_anvisa> "P46"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/piraclostrobina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "pyraclostrobin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/piraflufem> <http://www.w3.org/2004/02/skos/core#prefLabel> "piraflufem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/piraflufem> <http://ligados.agro.org/propriedade/num_anvisa> "P49.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/piraflufem> <http://ligados.agro.org/propriedade/nome_comum_ingles> "piraflufem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pirazof%EF%BF%BDs> <http://www.w3.org/2004/02/skos/core#prefLabel> "pirazof�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pirazof%EF%BF%BDs> <http://ligados.agro.org/propriedade/num_anvisa> "P09"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pirazof%EF%BF%BDs> <http://ligados.agro.org/propriedade/nome_comum_ingles> "pyrazophos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pirazossulfurom-et%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "pirazossulfurom-et�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pirazossulfurom-et%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "P29.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pirazossulfurom-et%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "pyrazosulfuromethyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/piridabem> <http://www.w3.org/2004/02/skos/core#prefLabel> "piridabem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/piridabem> <http://ligados.agro.org/propriedade/num_anvisa> "P35"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/piridabem> <http://ligados.agro.org/propriedade/nome_comum_ingles> "pyridabem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/piridafentiona> <http://www.w3.org/2004/02/skos/core#prefLabel> "piridafentiona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/piridafentiona> <http://ligados.agro.org/propriedade/num_anvisa> "P32"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/piridafentiona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "piridafentiona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pirimetanil> <http://www.w3.org/2004/02/skos/core#prefLabel> "pirimetanil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pirimetanil> <http://ligados.agro.org/propriedade/num_anvisa> "P43"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pirimetanil> <http://ligados.agro.org/propriedade/nome_comum_ingles> "pyrimethanil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pirimicarbe> <http://www.w3.org/2004/02/skos/core#prefLabel> "pirimicarbe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pirimicarbe> <http://ligados.agro.org/propriedade/num_anvisa> "P10"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pirimicarbe> <http://ligados.agro.org/propriedade/nome_comum_ingles> "pirimicarb"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pirimif%EF%BF%BDs-met%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "pirimif�s-met�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pirimif%EF%BF%BDs-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "P12"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/pirimif%EF%BF%BDs-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "pirimiphos-methyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/piriproxifem> <http://www.w3.org/2004/02/skos/core#prefLabel> "piriproxifem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/piriproxifem> <http://ligados.agro.org/propriedade/num_anvisa> "P34"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/piriproxifem> <http://ligados.agro.org/propriedade/nome_comum_ingles> "piriproxifem"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Piritiobaque-s%EF%BF%BDdico> <http://www.w3.org/2004/02/skos/core#prefLabel> "Piritiobaque-s�dico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Piritiobaque-s%EF%BF%BDdico> <http://ligados.agro.org/propriedade/num_anvisa> "P39.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Piritiobaque-s%EF%BF%BDdico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Piritiobaque-sodium"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/piroquilona> <http://www.w3.org/2004/02/skos/core#prefLabel> "piroquilona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/piroquilona> <http://ligados.agro.org/propriedade/num_anvisa> "P26"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/piroquilona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "pyrokylone"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/procimidona> <http://www.w3.org/2004/02/skos/core#prefLabel> "procimidona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/procimidona> <http://ligados.agro.org/propriedade/num_anvisa> "P33"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/procimidona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "procymidone"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/procloraz> <http://www.w3.org/2004/02/skos/core#prefLabel> "procloraz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/procloraz> <http://ligados.agro.org/propriedade/num_anvisa> "P27"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/procloraz> <http://ligados.agro.org/propriedade/nome_comum_ingles> "procloraz"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/profenof%EF%BF%BDs> <http://www.w3.org/2004/02/skos/core#prefLabel> "profenof�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/profenof%EF%BF%BDs> <http://ligados.agro.org/propriedade/num_anvisa> "P13"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/profenof%EF%BF%BDs> <http://ligados.agro.org/propriedade/nome_comum_ingles> "profenophos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/profoxidim> <http://www.w3.org/2004/02/skos/core#prefLabel> "profoxidim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/profoxidim> <http://ligados.agro.org/propriedade/num_anvisa> "P47"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/profoxidim> <http://ligados.agro.org/propriedade/nome_comum_ingles> "profoxidim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/prometrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "prometrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/prometrina> <http://ligados.agro.org/propriedade/num_anvisa> "P15"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/prometrina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "promethrin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/propanil> <http://www.w3.org/2004/02/skos/core#prefLabel> "propanil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/propanil> <http://ligados.agro.org/propriedade/num_anvisa> "P16"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/propanil> <http://ligados.agro.org/propriedade/nome_comum_ingles> "propanil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/propaquizafope> <http://www.w3.org/2004/02/skos/core#prefLabel> "propaquizafope"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/propaquizafope> <http://ligados.agro.org/propriedade/num_anvisa> "P31"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/propaquizafope> <http://ligados.agro.org/propriedade/nome_comum_ingles> "propaquizafope"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/propargito> <http://www.w3.org/2004/02/skos/core#prefLabel> "propargito"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/propargito> <http://ligados.agro.org/propriedade/num_anvisa> "P17"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/propargito> <http://ligados.agro.org/propriedade/nome_comum_ingles> "propargito"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/propiconazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "propiconazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/propiconazol> <http://ligados.agro.org/propriedade/num_anvisa> "P21"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/propiconazol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "propiconazole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/propinebe> <http://www.w3.org/2004/02/skos/core#prefLabel> "propinebe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/propinebe> <http://ligados.agro.org/propriedade/num_anvisa> "P41"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/propinebe> <http://ligados.agro.org/propriedade/nome_comum_ingles> "propineb"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Protioconazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "Protioconazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Protioconazol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Protioconazole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/protiof%EF%BF%BDs> <http://www.w3.org/2004/02/skos/core#prefLabel> "protiof�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/protiof%EF%BF%BDs> <http://ligados.agro.org/propriedade/num_anvisa> "P38"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/protiof%EF%BF%BDs> <http://ligados.agro.org/propriedade/nome_comum_ingles> "protiof�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/quincloraque> <http://www.w3.org/2004/02/skos/core#prefLabel> "quincloraque"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/quincloraque> <http://ligados.agro.org/propriedade/num_anvisa> "Q04"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/quincloraque> <http://ligados.agro.org/propriedade/nome_comum_ingles> "quincloraque"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/quinometionato> <http://www.w3.org/2004/02/skos/core#prefLabel> "quinometionato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/quinometionato> <http://ligados.agro.org/propriedade/num_anvisa> "Q01"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/quinometionato> <http://ligados.agro.org/propriedade/nome_comum_ingles> "quinomethionate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/quintozeno> <http://www.w3.org/2004/02/skos/core#prefLabel> "quintozeno"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/quintozeno> <http://ligados.agro.org/propriedade/num_anvisa> "Q02"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/quintozeno> <http://ligados.agro.org/propriedade/nome_comum_ingles> "quintozene"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/quizalofope-P-et%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "quizalofope-P-et�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/quizalofope-P-et%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "Q05"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/quizalofope-P-et%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "quizalofope-P-ethyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/quizalofope-P-tefur%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "quizalofope-P-tefur�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/quizalofope-P-tefur%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "Q05.2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/quizalofope-P-tefur%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "quizalofope-P-tefuryl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/rincoforol> <http://www.w3.org/2004/02/skos/core#prefLabel> "rincoforol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/rincoforol> <http://ligados.agro.org/propriedade/num_anvisa> "R02"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/rincoforol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "rincoforol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/serricornim> <http://www.w3.org/2004/02/skos/core#prefLabel> "serricornim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/serricornim> <http://ligados.agro.org/propriedade/num_anvisa> "S06"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/serricornim> <http://ligados.agro.org/propriedade/nome_comum_ingles> "serricornim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/setoxidim> <http://www.w3.org/2004/02/skos/core#prefLabel> "setoxidim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/setoxidim> <http://ligados.agro.org/propriedade/num_anvisa> "S02"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/setoxidim> <http://ligados.agro.org/propriedade/nome_comum_ingles> "setoxidim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/simazina> <http://www.w3.org/2004/02/skos/core#prefLabel> "simazina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/simazina> <http://ligados.agro.org/propriedade/num_anvisa> "S03"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/simazina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "simazine"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/S-metolacloro> <http://www.w3.org/2004/02/skos/core#prefLabel> "S-metolacloro"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/S-metolacloro> <http://ligados.agro.org/propriedade/num_anvisa> "S13"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/S-metolacloro> <http://ligados.agro.org/propriedade/nome_comum_ingles> "S-metolachlor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/sordidim> <http://www.w3.org/2004/02/skos/core#prefLabel> "sordidim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/sordidim> <http://ligados.agro.org/propriedade/num_anvisa> "S14"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/sordidim> <http://ligados.agro.org/propriedade/nome_comum_ingles> "sordidim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Steinernema%20puertoricense> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steinernema puertoricense"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Steinernema%20puertoricense> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Steinernema puertoricense"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/sulfato%20de%20cobre> <http://www.w3.org/2004/02/skos/core#prefLabel> "sulfato de cobre"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/sulfato%20de%20cobre> <http://ligados.agro.org/propriedade/num_anvisa> "C55.4"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/sulfato%20de%20cobre> <http://ligados.agro.org/propriedade/nome_comum_ingles> "copper sulfate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/sulfentrazona> <http://www.w3.org/2004/02/skos/core#prefLabel> "sulfentrazona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/sulfentrazona> <http://ligados.agro.org/propriedade/num_anvisa> "S09"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/sulfentrazona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "sulfentrazone"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/sulfometurom-met%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "sulfometurom-met�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/sulfometurom-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "S11"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/sulfometurom-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "sulfometurom-methyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/sulfosato> <http://www.w3.org/2004/02/skos/core#prefLabel> "sulfosato"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/sulfosato> <http://ligados.agro.org/propriedade/num_anvisa> "S08"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/sulfosato> <http://ligados.agro.org/propriedade/nome_comum_ingles> "sulfosate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tebuconazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "tebuconazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tebuconazol> <http://ligados.agro.org/propriedade/num_anvisa> "T32"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tebuconazol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "tebuconazole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tebufenozida> <http://www.w3.org/2004/02/skos/core#prefLabel> "tebufenozida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tebufenozida> <http://ligados.agro.org/propriedade/num_anvisa> "T41"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tebufenozida> <http://ligados.agro.org/propriedade/nome_comum_ingles> "tebufenozida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tebupirinf%EF%BF%BDs> <http://www.w3.org/2004/02/skos/core#prefLabel> "tebupirinf�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tebupirinf%EF%BF%BDs> <http://ligados.agro.org/propriedade/num_anvisa> "T57"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tebupirinf%EF%BF%BDs> <http://ligados.agro.org/propriedade/nome_comum_ingles> "tebupirinf�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tebutiurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "tebutiurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tebutiurom> <http://ligados.agro.org/propriedade/num_anvisa> "T05"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tebutiurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "tebutiurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/teflubenzurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "teflubenzurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/teflubenzurom> <http://ligados.agro.org/propriedade/num_anvisa> "T33"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/teflubenzurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "teflubenzurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Tembotriona> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tembotriona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Tembotriona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Tembotrione"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tepraloxidim> <http://www.w3.org/2004/02/skos/core#prefLabel> "tepraloxidim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tepraloxidim> <http://ligados.agro.org/propriedade/num_anvisa> "T50"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tepraloxidim> <http://ligados.agro.org/propriedade/nome_comum_ingles> "tepraloxidim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/terbuf%EF%BF%BDs> <http://www.w3.org/2004/02/skos/core#prefLabel> "terbuf�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/terbuf%EF%BF%BDs> <http://ligados.agro.org/propriedade/num_anvisa> "T37"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/terbuf%EF%BF%BDs> <http://ligados.agro.org/propriedade/nome_comum_ingles> "terbuf�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/terbutilazina> <http://www.w3.org/2004/02/skos/core#prefLabel> "terbutilazina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/terbutilazina> <http://ligados.agro.org/propriedade/num_anvisa> "T39"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/terbutilazina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "terbuthylazine"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/terra%20diatom%EF%BF%BDcea> <http://www.w3.org/2004/02/skos/core#prefLabel> "terra diatom�cea"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/terra%20diatom%EF%BF%BDcea> <http://ligados.agro.org/propriedade/num_anvisa> "T43"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/terra%20diatom%EF%BF%BDcea> <http://ligados.agro.org/propriedade/nome_comum_ingles> "diatomaceous earth"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tetraconazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "tetraconazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tetraconazol> <http://ligados.agro.org/propriedade/num_anvisa> "T46"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tetraconazol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "tetraconazole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tetradifona> <http://www.w3.org/2004/02/skos/core#prefLabel> "tetradifona"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tetradifona> <http://ligados.agro.org/propriedade/num_anvisa> "T10"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tetradifona> <http://ligados.agro.org/propriedade/nome_comum_ingles> "tetradifone"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiabendazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "tiabendazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiabendazol> <http://ligados.agro.org/propriedade/num_anvisa> "T12"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiabendazol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "thiabendazole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiacloprido> <http://www.w3.org/2004/02/skos/core#prefLabel> "tiacloprido"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiacloprido> <http://ligados.agro.org/propriedade/num_anvisa> "T49"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiacloprido> <http://ligados.agro.org/propriedade/nome_comum_ingles> "thiacloprid"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiametoxam> <http://www.w3.org/2004/02/skos/core#prefLabel> "tiametoxam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiametoxam> <http://ligados.agro.org/propriedade/num_anvisa> "T48"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiametoxam> <http://ligados.agro.org/propriedade/nome_comum_ingles> "thiamethoxam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiazopir> <http://www.w3.org/2004/02/skos/core#prefLabel> "tiazopir"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiazopir> <http://ligados.agro.org/propriedade/num_anvisa> "T45"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiazopir> <http://ligados.agro.org/propriedade/nome_comum_ingles> "tiazopir"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tidiazurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "tidiazurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tidiazurom> <http://ligados.agro.org/propriedade/num_anvisa> "T13"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tidiazurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "tidiazurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tifluzamida> <http://www.w3.org/2004/02/skos/core#prefLabel> "tifluzamida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tifluzamida> <http://ligados.agro.org/propriedade/num_anvisa> "T52"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tifluzamida> <http://ligados.agro.org/propriedade/nome_comum_ingles> "tifluzamide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiobencarbe> <http://www.w3.org/2004/02/skos/core#prefLabel> "tiobencarbe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiobencarbe> <http://ligados.agro.org/propriedade/num_anvisa> "T29"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiobencarbe> <http://ligados.agro.org/propriedade/nome_comum_ingles> "thiobencarb"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiodicarbe> <http://www.w3.org/2004/02/skos/core#prefLabel> "tiodicarbe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiodicarbe> <http://ligados.agro.org/propriedade/num_anvisa> "T30"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiodicarbe> <http://ligados.agro.org/propriedade/nome_comum_ingles> "thiodicarb"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiofanato-met%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "tiofanato-met�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiofanato-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "T14"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiofanato-met%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "methyl thiophanate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiram> <http://www.w3.org/2004/02/skos/core#prefLabel> "tiram"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiram> <http://ligados.agro.org/propriedade/num_anvisa> "T16"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tiram> <http://ligados.agro.org/propriedade/nome_comum_ingles> "take out"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tolifluanida> <http://www.w3.org/2004/02/skos/core#prefLabel> "tolifluanida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tolifluanida> <http://ligados.agro.org/propriedade/num_anvisa> "T38"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tolifluanida> <http://ligados.agro.org/propriedade/nome_comum_ingles> "tolifluanide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triadimefom> <http://www.w3.org/2004/02/skos/core#prefLabel> "triadimefom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triadimefom> <http://ligados.agro.org/propriedade/num_anvisa> "T17"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triadimefom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "triadimefom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triadimenol> <http://www.w3.org/2004/02/skos/core#prefLabel> "triadimenol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triadimenol> <http://ligados.agro.org/propriedade/num_anvisa> "T31"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triadimenol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "triadimenol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triazof%EF%BF%BDs> <http://www.w3.org/2004/02/skos/core#prefLabel> "triazof�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triazof%EF%BF%BDs> <http://ligados.agro.org/propriedade/num_anvisa> "T18"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triazof%EF%BF%BDs> <http://ligados.agro.org/propriedade/nome_comum_ingles> "triazof�s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Trichoderma%20asperellum> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trichoderma asperellum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Trichoderma%20asperellum> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Trichoderma asperellum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Trichoderma%20harzianum> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trichoderma harzianum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Trichoderma%20harzianum> <http://ligados.agro.org/propriedade/num_anvisa> "T60"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Trichoderma%20harzianum> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Trichoderma harzianum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Trichoderma%20stromaticum> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trichoderma stromaticum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Trichoderma%20stromaticum> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Trichoderma stromaticum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triciclazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "triciclazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triciclazol> <http://ligados.agro.org/propriedade/num_anvisa> "T19"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triciclazol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "tricyclazole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Triclopir-butot%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "Triclopir-butot�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Triclopir-butot%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "T28.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/Triclopir-butot%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "Triclopyr-butothyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triclorfom> <http://www.w3.org/2004/02/skos/core#prefLabel> "triclorfom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triclorfom> <http://ligados.agro.org/propriedade/num_anvisa> "T21"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triclorfom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "trichlorfon"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tridemorfe> <http://www.w3.org/2004/02/skos/core#prefLabel> "tridemorfe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tridemorfe> <http://ligados.agro.org/propriedade/num_anvisa> "T27"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/tridemorfe> <http://ligados.agro.org/propriedade/nome_comum_ingles> "tridemorfe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/trifloxissulfurom-s%EF%BF%BDdico> <http://www.w3.org/2004/02/skos/core#prefLabel> "trifloxissulfurom-s�dico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/trifloxissulfurom-s%EF%BF%BDdico> <http://ligados.agro.org/propriedade/num_anvisa> "T55.1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/trifloxissulfurom-s%EF%BF%BDdico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "trifloxysulfurom sodium"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/trifloxistrobina> <http://www.w3.org/2004/02/skos/core#prefLabel> "trifloxistrobina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/trifloxistrobina> <http://ligados.agro.org/propriedade/num_anvisa> "T54"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/trifloxistrobina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "trifloxystrobin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triflumizol> <http://www.w3.org/2004/02/skos/core#prefLabel> "triflumizol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triflumizol> <http://ligados.agro.org/propriedade/num_anvisa> "T36"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triflumizol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "triflumizole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triflumurom> <http://www.w3.org/2004/02/skos/core#prefLabel> "triflumurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triflumurom> <http://ligados.agro.org/propriedade/num_anvisa> "T34"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triflumurom> <http://ligados.agro.org/propriedade/nome_comum_ingles> "triflumurom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/trifluralina> <http://www.w3.org/2004/02/skos/core#prefLabel> "trifluralina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/trifluralina> <http://ligados.agro.org/propriedade/num_anvisa> "T24"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/trifluralina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "trifluralin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triforina> <http://www.w3.org/2004/02/skos/core#prefLabel> "triforina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triforina> <http://ligados.agro.org/propriedade/num_anvisa> "T25"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triforina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "triforine"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/trimedlure> <http://www.w3.org/2004/02/skos/core#prefLabel> "trimedlure"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/trimedlure> <http://ligados.agro.org/propriedade/num_anvisa> "T51"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/trimedlure> <http://ligados.agro.org/propriedade/nome_comum_ingles> "trimedlure"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/trinexapaque-et%EF%BF%BDlico> <http://www.w3.org/2004/02/skos/core#prefLabel> "trinexapaque-et�lico"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/trinexapaque-et%EF%BF%BDlico> <http://ligados.agro.org/propriedade/num_anvisa> "T56"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/trinexapaque-et%EF%BF%BDlico> <http://ligados.agro.org/propriedade/nome_comum_ingles> "trinexapaque-ethyl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triticonazol> <http://www.w3.org/2004/02/skos/core#prefLabel> "triticonazol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triticonazol> <http://ligados.agro.org/propriedade/num_anvisa> "T40"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/triticonazol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "triticonazole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/vinclozolina> <http://www.w3.org/2004/02/skos/core#prefLabel> "vinclozolina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/vinclozolina> <http://ligados.agro.org/propriedade/num_anvisa> "V04"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/vinclozolina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "vinclozolina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/(Z)-%2011-%20Hexadecenal> <http://www.w3.org/2004/02/skos/core#prefLabel> "(Z)- 11- Hexadecenal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/(Z)-%2011-%20Hexadecenal> <http://ligados.agro.org/propriedade/num_anvisa> "H14"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/(Z)-%2011-%20Hexadecenal> <http://ligados.agro.org/propriedade/nome_comum_ingles> "(Z) - 11- Hexadecenal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/zeta-cipermetrina> <http://www.w3.org/2004/02/skos/core#prefLabel> "zeta-cipermetrina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/zeta-cipermetrina> <http://ligados.agro.org/propriedade/num_anvisa> "C60"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/zeta-cipermetrina> <http://ligados.agro.org/propriedade/nome_comum_ingles> "zeta-cypermethrin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/zoxamida> <http://www.w3.org/2004/02/skos/core#prefLabel> "zoxamida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/zoxamida> <http://ligados.agro.org/propriedade/num_anvisa> "Z04"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/zoxamida> <http://ligados.agro.org/propriedade/nome_comum_ingles> "zoxamide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/(Z%2CZ%2CZ)-3%2C6%2C9-tricosatrieno> <http://www.w3.org/2004/02/skos/core#prefLabel> "(Z,Z,Z)-3,6,9-tricosatrieno"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/(Z%2CZ%2CZ)-3%2C6%2C9-tricosatrieno> <http://ligados.agro.org/propriedade/num_anvisa> "T53"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/(Z%2CZ%2CZ)-3%2C6%2C9-tricosatrieno> <http://ligados.agro.org/propriedade/nome_comum_ingles> "(Z, Z, Z) -3,6,9-tricosatriene"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/(Z)-8-dodecenol> <http://www.w3.org/2004/02/skos/core#prefLabel> "(Z)-8-dodecenol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/(Z)-8-dodecenol> <http://ligados.agro.org/propriedade/num_anvisa> "D47"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/(Z)-8-dodecenol> <http://ligados.agro.org/propriedade/nome_comum_ingles> "(Z) -8-dodecenol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/(Z)-9-Hexadecenal> <http://www.w3.org/2004/02/skos/core#prefLabel> "(Z)-9-Hexadecenal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/(Z)-9-Hexadecenal> <http://ligados.agro.org/propriedade/num_anvisa> "H15"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/(Z)-9-Hexadecenal> <http://ligados.agro.org/propriedade/nome_comum_ingles> "(Z) -9-Hexadecenal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/1%2C4-dimetoxibenzeno> <http://www.w3.org/2004/02/skos/core#prefLabel> "1,4-dimetoxibenzeno"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/1%2C4-dimetoxibenzeno> <http://ligados.agro.org/propriedade/num_anvisa> "D-52"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/1%2C4-dimetoxibenzeno> <http://ligados.agro.org/propriedade/nome_comum_ingles> "1,4-dimethoxybenzene"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/2%2C4-D> <http://www.w3.org/2004/02/skos/core#prefLabel> "2,4-D"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/2%2C4-D> <http://ligados.agro.org/propriedade/num_anvisa> "D27"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/2%2C4-D> <http://ligados.agro.org/propriedade/nome_comum_ingles> "2,4-D"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/4%2C8%20dimetildecanal> <http://www.w3.org/2004/02/skos/core#prefLabel> "4,8 dimetildecanal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/4%2C8%20dimetildecanal> <http://ligados.agro.org/propriedade/num_anvisa> "D49"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/4%2C8%20dimetildecanal> <http://ligados.agro.org/propriedade/nome_comum_ingles> "4.8 dimethyldecanal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/5%2C9-dimetilpentadecano> <http://www.w3.org/2004/02/skos/core#prefLabel> "5,9-dimetilpentadecano"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/5%2C9-dimetilpentadecano> <http://ligados.agro.org/propriedade/num_anvisa> "D45"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://ligados.agro.org/grafo5/5%2C9-dimetilpentadecano> <http://ligados.agro.org/propriedade/nome_comum_ingles> "5,9-dimethylpentadecane"^^<http://www.w3.org/2001/XMLSchema#string> .

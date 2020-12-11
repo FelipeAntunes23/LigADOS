@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+ xmlns:time="http://www.w3.org/2006/time#"
+ xmlns:dct="http://purl.org/dc/terms/"
+ xmlns:dcat="http://www.w3.org/ns/dcat#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<dcat:Catalog rdf:about="http://localhost/pt_BR/">
+  <dct:identifier>http://localhost/pt_BR/</dct:identifier>
+  <dct:title>Bem vindo - CKAN-Ligados - Portal de Agrotoxicos</dct:title>
+  <dct:description>CKAN-LigADOS - Portal de Agrotoxicos</dct:description>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-07-06T00:00:00Z</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-07-24T09:38:45Z</dct:modified>
+  <dct:language>pt_BR</dct:language>
+  <foaf:homepage rdf:resource="http://localhost/pt_BR/"/>  
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://localhost/pt_BR/dataset/comercializacao-ibama-2017">
+      <dct:identifier>comercializacao-ibama-2017</dct:identifier>
+      <dct:title>Comercialização IBAMA 2017</dct:title>
+      <dct:description>
+
+Dados sobre comercialização de agrotóxicos fornecidos pela empresas fabricantes e sistematizados pelo IBAMA para o ano de 2017.
+
+Produto Formulado (PF) = agrotóxico ou afim obtido a partir de produto técnico ou de pré-mistura, por intermédio de processo físico, ou diretamente de matérias-primas por meio de processos físicos, químicos ou biológicos. (Decreto 4074/02).
+
+Ingrediente ativo (IA) = agente químico, físico ou biológico que confere eficácia aos agrotóxicos e afins. (Decreto 4074/2002).
+</dct:description>
+      <dcat:keyword>principio ativo</dcat:keyword>	    	  	  
+      <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-07-07T11:54:00Z</dct:issued>
+      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-07-19T14:24:00Z</dct:modified>
+      <dct:language>pt_BR</dct:language>
+	  <dct:publisher rdf:resource="http://localhost/pt_BR/organization/about/instituto-brasileiro-do-meio-ambiente-e-dos-recursos-naturais-renovaveis-ibama"/>      
+	  <dcat:distribution rdf:resource="http://localhost/pt_BR/dataset/comercializacao-ibama-2017/resource/2046575e-99a3-4d27-bbb3-eebbd3bd3664"/>     
+	  <dcat:distribution rdf:resource="http://localhost/pt_BR/dataset/comercializacao-ibama-2017/resource/aa463f9d-3761-48c2-bf13-6ea369b7535d"/>              
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://localhost/pt_BR/dataset/cadastro-nacional-de-produtores-organicos1">
+      <dct:identifier>cadastro-nacional-de-produtores-organicos1</dct:identifier>
+      <dct:title>Cadastro Nacional de Produtores Orgânicos1</dct:title>
+      <dct:description>Relação de Produtores Orgânicos de todo o Brasil. A listagem dos organismos que controlam a qualidade orgânica e a listagem de organizações de controle social, que comercializam seus produtos diretamente ao consumidor.</dct:description>
+    <dcat:keyword>produto organico</dcat:keyword>
+    <dcat:keyword>produtor</dcat:keyword>
+    <dcat:keyword>qualidade organica</dcat:keyword>	
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-07</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-25</dct:modified>
+    <dct:language>pt_BR</dct:language>
+	<dct:publisher rdf:resource="http://localhost/pt_BR/organization/about/mapa"/>
+	<dcat:distribution rdf:resource="http://localhost/pt_BR/dataset/cadastro-nacional-de-produtores-organicos1/resource/d599d8e8-dcbe-4365-af24-2148c2b9f13b"/>                    	
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://localhost/pt_BR/dataset/classificacao-do-iarc-agencia-internacional-de-pesquisa-em-cancer">
+      <dct:identifier>classificacao-do-iarc-agencia-internacional-de-pesquisa-em-cancer</dct:identifier>
+      <dct:title>Classificação do IARC - Agência Internacional de Pesquisa em Câncer</dct:title>
+      <dct:description>
+
+O IARC é a Agência Internacional de Pesquisa em Câncer, ligada à Organização Mundial da Saúde. Diversas substâncias químicas, inclusindo agrotóxicos, são classificados em :
+
+_Group 1: Carcinogenic to humans Group 2A: Probably carcinogenic to humans Group 2B: Possibly carcinogenic to humans Group 3: Not classifiable as to its carcinogenicity to humans Group 4: Probably not carcinogenic to humans
+</dct:description>
+      <dcat:keyword>base de dados</dcat:keyword>
+      <dcat:keyword>Cancer</dcat:keyword>
+      <dcat:keyword>doenca</dcat:keyword>	  
+      <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-07</dct:issued>
+      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-25</dct:modified>
+      <dct:language>pt_BR</dct:language>
+      <dct:publisher rdf:resource="http://localhost/pt_BR/organization/iarc"/>
+      <dcat:distribution rdf:resource="http://localhost/pt_BR/dataset/classificacao-do-iarc-agencia-internacional-de-pesquisa-em-cancer/resource/5cc54b8f-6de1-482e-823e-d22c3fa91262"/>      
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://localhost/pt_BR/dataset/agrofit">
+      <dct:identifier>agrofit</dct:identifier>
+      <dct:title>Agrofit</dct:title>
+      <dct:description>Sistema de registro de agrotóxicos do Ministério da Agricultura, acessível em http://extranet.agricultura.gov.br/agrofit_cons/principal_agrofit_cons</dct:description>
+      <dcat:keyword>registro</dcat:keyword>      
+      <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-07</dct:issued>
+      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-25</dct:modified>
+      <dct:language>pt_BR</dct:language>
+      <dct:publisher rdf:resource="http://localhost/pt_BR/organization/about/mapa"/>
+      <dcat:distribution rdf:resource="http://localhost/pt_BR/dataset/agrofit/resource/b2047df8-8792-4c16-b315-48baa4e4aed9"/>      
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://localhost/pt_BR/dataset/para-programa-de-analise-de-residuos-de-agrotoxicos-em-alimentos">
+      <dct:identifier>para-programa-de-analise-de-residuos-de-agrotoxicos-em-alimentos</dct:identifier>
+      <dct:title>PARA - Programa de Análise de Resíduos de Agrotóxicos em Alimentos</dct:title>
+      <dct:description>Tabelas extraídas do relatórios do PARA, com diversos dados relativos aos resíduos de agrotóxicos encontrados em alimentos.</dct:description>
+      <dcat:keyword>principio ativo</dcat:keyword>      
+      <dcat:keyword>registro de agrotoxico</dcat:keyword>	 
+      <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-07</dct:issued>
+      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-25</dct:modified>
+      <dct:language>pt_BR</dct:language>
+      <dct:publisher rdf:resource="http://localhost/pt_BR/organization/about/anvisa"/>
+      <dcat:distribution rdf:resource="http://localhost/pt_BR/dataset/para-programa-de-analise-de-residuos-de-agrotoxicos-em-alimentos/resource/6dd9617f-e86c-400e-961c-e31d81f8eb8b"/>      
+    </dcat:Dataset>
+  </dcat:dataset>
+</dcat:Catalog>
+<dcat:Distribution rdf:about="http://localhost/pt_BR/dataset/comercializacao-ibama-2017/resource/2046575e-99a3-4d27-bbb3-eebbd3bd3664">        
+	<dct:title>Os 10 ingredientes ativos mais vendidos</dct:title>
+    <dct:description>Químicos e Bioquímicos.</dct:description>
+    <dcat:downloadURL rdf:resource="https://drive.google.com/file/d/1K2Yn15-qE5SyljRuiwmUZ-W25i9zxmWQ/view?usp=sharing"/>
+    <dct:format>RDF</dct:format>          
+</dcat:Distribution>
+<dcat:Distribution rdf:about="http://localhost/pt_BR/dataset/comercializacao-ibama-2017/resource/aa463f9d-3761-48c2-bf13-6ea369b7535d">      
+    <dct:title>Vendas de ingredientes ativos por UF</dct:title>
+    <dct:description>Químicos e Bioquímicos.</dct:description>
+    <dcat:downloadURL rdf:resource="https://drive.google.com/file/d/1KIkYcp1tkGQQdPnQhzPZxlFijVl56FoL/view?usp=sharing"/>
+    <dct:format>RDF</dct:format>          
+</dcat:Distribution>
+<dcat:Distribution rdf:about="http://localhost/pt_BR/dataset/cadastro-nacional-de-produtores-organicos1/resource/d599d8e8-dcbe-4365-af24-2148c2b9f13b">      
+    <dct:title>Cadastro Nacional de Produtores Orgânicos</dct:title>
+    <dct:description>
+Do resumo do conjunto de dados
+
+Relação de Produtores Orgânicos de todo o Brasil. A listagem dos organismos que controlam a qualidade orgânica e a listagem de organizações de controle social, que comercializam seus...
+
+Fonte: Cadastro Nacional de Produtores Orgânicos
+</dct:description>
+    <dcat:downloadURL rdf:resource="https://drive.google.com/file/d/1YZa2CVttzXj_902BK9XhlNx1M06X2BHn/view?usp=sharing"/>
+    <dct:format>RDF</dct:format>          
+</dcat:Distribution>
+<dcat:Distribution rdf:about="http://localhost/pt_BR/dataset/classificacao-do-iarc-agencia-internacional-de-pesquisa-em-cancer/resource/5cc54b8f-6de1-482e-823e-d22c3fa91262">        
+	<dct:title>Classificação IARC - Perigo de Câncer</dct:title>
+    <dct:description>
+
+Atualizado em 6 de julho de 2016
+</dct:description>
+    <dcat:downloadURL rdf:resource="https://drive.google.com/file/d/1h21E-jeSBvyN1EX7HdCxjQvBmh6q209U/view?usp=sharing"/>
+    <dct:format>RDF</dct:format>          
+</dcat:Distribution>
+<dcat:Distribution rdf:about="http://localhost/pt_BR/dataset/agrofit/resource/b2047df8-8792-4c16-b315-48baa4e4aed9">      
+    <dct:title>Ingredientes Ativos</dct:title>
+    <dct:description>Listagem dos ingredientes ativos de agrotóxicos registrados no Agrofit em Julho de 2016.</dct:description>
+    <dcat:downloadURL rdf:resource="https://drive.google.com/file/d/11p5oolDPLDQKY6T3mDIfIQTvG9HU19Q3/view?usp=sharing"/>
+    <dct:format>RDF</dct:format>          
+</dcat:Distribution>
+<dcat:Distribution rdf:about="http://localhost/pt_BR/dataset/para-programa-de-analise-de-residuos-de-agrotoxicos-em-alimentos/resource/6dd9617f-e86c-400e-961c-e31d81f8eb8b">      
+    <dct:title>Dados - PARA 2010</dct:title>
+    <dct:description>Tabelas extraídas do relatório final do Programa de Análise de Resíduos de Agrotóxicos em Alimentos - PARA 2010. [......]</dct:description>
+    <dcat:downloadURL rdf:resource="https://drive.google.com/file/d/1A3-8bBEQxDu4aUW0yNlZ1id0lPOQr4Nq/view?usp=sharing"/>
+    <dct:format>RDF</dct:format>          
+</dcat:Distribution>
+<foaf:Organization rdf:about="http://localhost/pt_BR/organization/about/instituto-brasileiro-do-meio-ambiente-e-dos-recursos-naturais-renovaveis-ibama">
+    <foaf:name>Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama</foaf:name>     
+</foaf:Organization>
+<foaf:Organization rdf:about="http://localhost/pt_BR/organization/about/mapa">
+	<foaf:name>MAPA</foaf:name>
+</foaf:Organization>
+<foaf:Organization rdf:about="http://localhost/pt_BR/organization/iarc">
+    <foaf:name>IARC</foaf:name>      
+</foaf:Organization>  
+<foaf:Organization rdf:about="http://localhost/pt_BR/organization/about/anvisa">
+    <foaf:name>ANVISA</foaf:name>      
+</foaf:Organization>  
+</rdf:RDF>

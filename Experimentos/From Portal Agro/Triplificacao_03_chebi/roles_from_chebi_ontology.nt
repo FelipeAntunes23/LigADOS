@@ -1,0 +1,30 @@
+<http://purl.obolibrary.org/obo/RO_0000087> <http://www.w3.org/2000/01/rdf-schema#label> "has role" .
+<http://purl.obolibrary.org/obo/CHEBI_52206> <http://www.w3.org/2000/01/rdf-schema#label> "biochemical role" .
+<http://purl.obolibrary.org/obo/CHEBI_24432> <http://www.w3.org/2000/01/rdf-schema#label> "biological role" .
+<http://purl.obolibrary.org/obo/CHEBI_52209> <http://www.w3.org/2000/01/rdf-schema#label> "aetiopathogenetic role" .
+<http://purl.obolibrary.org/obo/CHEBI_51086> <http://www.w3.org/2000/01/rdf-schema#label> "chemical role" .
+<http://purl.obolibrary.org/obo/CHEBI_52215> <http://www.w3.org/2000/01/rdf-schema#label> "photochemical role" .
+<http://purl.obolibrary.org/obo/CHEBI_52216> <http://www.w3.org/2000/01/rdf-schema#label> "photobiochemical role" .
+<http://purl.obolibrary.org/obo/CHEBI_52208> <http://www.w3.org/2000/01/rdf-schema#label> "biophysical role" .
+<http://purl.obolibrary.org/obo/CHEBI_52211> <http://www.w3.org/2000/01/rdf-schema#label> "physiological role" .
+<http://purl.obolibrary.org/obo/CHEBI_52210> <http://www.w3.org/2000/01/rdf-schema#label> "pharmacological role" .
+<http://purl.obolibrary.org/obo/CHEBI_53000> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "epitope role" .
+<http://purl.obolibrary.org/obo/CHEBI_52209> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "etiopathogenetic role" .
+<http://purl.obolibrary.org/obo/CHEBI_61951> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "microtubule destabilising role" .
+<http://purl.obolibrary.org/obo/CHEBI_61951> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "microtubule destabilizing role" .
+<http://purl.obolibrary.org/obo/CHEBI_52215> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "photochemical roles" .
+<http://purl.obolibrary.org/obo/CHEBI_61950> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "microtubule stabilising role" .
+<http://purl.obolibrary.org/obo/CHEBI_61950> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "microtubule stabilizing role" .
+<http://purl.obolibrary.org/obo/CHEBI_33290> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "food role" .
+<http://purl.obolibrary.org/obo/CHEBI_60218> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "mimeotope role" .
+<http://purl.obolibrary.org/obo/CHEBI_60218> <http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym> "mimotope role" .
+_:node179967 <http://www.w3.org/2002/07/owl#annotatedTarget> "food role" .
+_:node254139 <http://www.w3.org/2002/07/owl#annotatedTarget> "etiopathogenetic role" .
+_:node254149 <http://www.w3.org/2002/07/owl#annotatedTarget> "photochemical roles" .
+_:node257691 <http://www.w3.org/2002/07/owl#annotatedTarget> "epitope role" .
+_:node284678 <http://www.w3.org/2002/07/owl#annotatedTarget> "mimeotope role" .
+_:node284681 <http://www.w3.org/2002/07/owl#annotatedTarget> "mimotope role" .
+_:node296148 <http://www.w3.org/2002/07/owl#annotatedTarget> "microtubule stabilising role" .
+_:node296151 <http://www.w3.org/2002/07/owl#annotatedTarget> "microtubule stabilizing role" .
+_:node296157 <http://www.w3.org/2002/07/owl#annotatedTarget> "microtubule destabilising role" .
+_:node296158 <http://www.w3.org/2002/07/owl#annotatedTarget> "microtubule destabilizing role" .

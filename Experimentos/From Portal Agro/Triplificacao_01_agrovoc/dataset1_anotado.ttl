@@ -1,0 +1,61 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://experimento1.org/grafo/Glifosato> a <http://aims.fao.org/aos/agrovoc/c_24849>;
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/Ranking> "1,0";
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/VendasEmToneladas> "173150,75";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Glifosato" .
+
+<http://experimento1.org/grafo/2%2C4-D> a <http://aims.fao.org/aos/agrovoc/c_8543>,
+    <http://aims.fao.org/aos/agrovoc/c_8544>;
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/Ranking> "2,0";
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/VendasEmToneladas> "57389,35";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "2,4-D" .
+
+<http://experimento1.org/grafo/Mancozebe> a <http://aims.fao.org/aos/agrovoc/c_31408>;
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/Ranking> "3,0";
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/VendasEmToneladas> "30815,09";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Mancozebe" .
+
+<http://experimento1.org/grafo/Acefato> a <http://aims.fao.org/aos/agrovoc/c_31235>;
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/Ranking> "4,0";
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/VendasEmToneladas> "27057,66";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Acefato" .
+
+<http://experimento1.org/grafo/%C3%93leo%20mineral> a <http://aims.fao.org/aos/agrovoc/c_4851>;
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/Ranking> "5,0";
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/VendasEmToneladas> "26777,62";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Óleo mineral" .
+
+<http://experimento1.org/grafo/Atrazina> a <http://aims.fao.org/aos/agrovoc/c_31256>;
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/Ranking> "6,0";
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/VendasEmToneladas> "24730,9";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Atrazina" .
+
+<http://experimento1.org/grafo/%C3%93leo%20vegetal> a <http://aims.fao.org/aos/agrovoc/c_8170>;
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/Ranking> "7,0";
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/VendasEmToneladas> "13479,17";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Óleo vegetal" .
+
+<http://experimento1.org/grafo/Oxicloreto%20de%20cobre> a <http://aims.fao.org/aos/agrovoc/c_37920>;
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/Ranking> "10,0";
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/VendasEmToneladas> "7443,62";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Oxicloreto de cobre" .
+
+<http://experimento1.org/grafo/Paraquato> a <http://aims.fao.org/aos/agrovoc/c_31452>;
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/Ranking> "8,0";
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/VendasEmToneladas> "11756,39";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Paraquato" .
+
+<http://experimento1.org/grafo/Imidacloprid> a <http://aims.fao.org/aos/agrovoc/c_37736>;
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/Ranking> "9,0";
+  <http://lodbr.ufrj.br/agrotoxicos/propriedade/VendasEmToneladas> "9364,57";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Imidacloprid" .
+
+<http://proton.semanticweb.org/protonsys#transitiveOver> rdfs:subPropertyOf <http://proton.semanticweb.org/protonsys#transitiveOver> .
+
+<http://lodbr.ufrj.br/agrotoxicos/propriedade/VendasEmToneladas> rdfs:subPropertyOf
+    <http://lodbr.ufrj.br/agrotoxicos/propriedade/VendasEmToneladas> .
+
+<http://lodbr.ufrj.br/agrotoxicos/propriedade/Ranking> rdfs:subPropertyOf <http://lodbr.ufrj.br/agrotoxicos/propriedade/Ranking> .

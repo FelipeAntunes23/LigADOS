@@ -1,0 +1,20 @@
+<http://experimento1.org/grafo2/ECOCERT%20BRASIL%20CERTIFICADORA> <http://xmlns.com/foaf/0.1/name> "ECOCERT BRASIL CERTIFICADORA"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo2/ECOCERT%20BRASIL%20CERTIFICADORA> <http://lodbr.ufrj.br/organizacao/propriedade/Pais> <http://pt.dbpedia.org/resource/Brasil> .
+<http://experimento1.org/grafo2/ECOCERT%20BRASIL%20CERTIFICADORA> <http://lodbr.ufrj.br/organizacao/propriedade/UF> <http://pt.dbpedia.org/resource/Minas_Gerais> .
+<http://experimento1.org/grafo2/ECOCERT%20BRASIL%20CERTIFICADORA> <http://lodbr.ufrj.br/organizacao/propriedade/Cidade> <http://pt.dbpedia.org/resource/Ouro_Preto> .
+<http://experimento1.org/grafo2/ECOCERT%20BRASIL%20CERTIFICADORA> <http://lodbr.ufrj.br/organizacao/propriedade/Produtor> "http://experimento1.org/grafo2/(ATINA)%20Patroc%C3%ADnio%20de%20S%C3%A3o%20Jos%C3%A9%20de%20Souza%20"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo2/ECOCERT%20BRASIL%20CERTIFICADORA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://experimento1.org/grafo2/ABDSUL%20-%20ASSOCIA%C3%87%C3%83O%20DE%20AGRICULTURA%20BIODN%C3%82MICA%20DO%20SUL> <http://xmlns.com/foaf/0.1/name> "ABDSUL - ASSOCIAÇÃO DE AGRICULTURA BIODNÂMICA DO SUL"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo2/ABDSUL%20-%20ASSOCIA%C3%87%C3%83O%20DE%20AGRICULTURA%20BIODN%C3%82MICA%20DO%20SUL> <http://lodbr.ufrj.br/organizacao/propriedade/Pais> <http://pt.dbpedia.org/resource/Brasil> .
+<http://experimento1.org/grafo2/ABDSUL%20-%20ASSOCIA%C3%87%C3%83O%20DE%20AGRICULTURA%20BIODN%C3%82MICA%20DO%20SUL> <http://lodbr.ufrj.br/organizacao/propriedade/UF> <http://pt.dbpedia.org/resource/Santa_Catarina> .
+<http://experimento1.org/grafo2/ABDSUL%20-%20ASSOCIA%C3%87%C3%83O%20DE%20AGRICULTURA%20BIODN%C3%82MICA%20DO%20SUL> <http://lodbr.ufrj.br/organizacao/propriedade/Cidade> <http://pt.dbpedia.org/resource/Florian%C3%B3polis> .
+<http://experimento1.org/grafo2/ABDSUL%20-%20ASSOCIA%C3%87%C3%83O%20DE%20AGRICULTURA%20BIODN%C3%82MICA%20DO%20SUL> <http://lodbr.ufrj.br/organizacao/propriedade/Produtor> "http://experimento1.org/grafo2/Aina%20Kombucha"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo2/ABDSUL%20-%20ASSOCIA%C3%87%C3%83O%20DE%20AGRICULTURA%20BIODN%C3%82MICA%20DO%20SUL> <http://xmlns.com/foaf/0.1/mbox> "contato@ainakombucha.com.br"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo2/ACEPI> <http://xmlns.com/foaf/0.1/name> "ACEPI"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo2/ACEPI> <http://lodbr.ufrj.br/organizacao/propriedade/Pais> <http://pt.dbpedia.org/resource/Brasil> .
+<http://experimento1.org/grafo2/ACEPI> <http://lodbr.ufrj.br/organizacao/propriedade/UF> <<http://pt.dbpedia.org/resource/Cear%C3%A1> .
+<http://experimento1.org/grafo2/ACEPI> <http://lodbr.ufrj.br/organizacao/propriedade/Cidade> <http://pt.dbpedia.org/resource/Nova_Russas> .
+<http://experimento1.org/grafo2/ACEPI> <http://lodbr.ufrj.br/organizacao/propriedade/Produtor> "http://experimento1.org/grafo2/ANTONIO%20MARQUE%20DE%20CARVALHO"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo2/ACEPI> <http://xmlns.com/foaf/0.1/mbox> "acepiopac@yahoo.com.br ;"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://experimento1.org/grafo2/ACEPI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+

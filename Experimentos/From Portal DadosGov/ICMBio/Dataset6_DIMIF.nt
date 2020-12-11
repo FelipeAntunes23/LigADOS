@@ -1,0 +1,56 @@
+<http://ligados.org/icmbio/1.0> <http://ligados.org/propriedade/uc> "APA Anhatomirim" .
+<http://ligados.org/icmbio/1.0> <http://ligados.org/propriedade/catnome> "Área de Proteção Ambiental" .
+<http://ligados.org/icmbio/1.0> <http://ligados.org/propriedade/bioma_vocab> "http://aims.fao.org/aos/agrovoc/c_fd44db40" .
+<http://ligados.org/icmbio/1.0> <http://ligados.org/propriedade/bioma> "Marinho-Costeiro" .
+<http://ligados.org/icmbio/1521.0> <http://ligados.org/propriedade/uc> "APA Bacia Hidrográfica do Rio Paraíba do Sul" .
+<http://ligados.org/icmbio/1521.0> <http://ligados.org/propriedade/catnome> "Área de Proteção Ambiental" .
+<http://ligados.org/icmbio/1521.0> <http://ligados.org/propriedade/bioma_vocab> "http://aims.fao.org/aos/agrovoc/c_7976" .
+<http://ligados.org/icmbio/1521.0> <http://ligados.org/propriedade/bioma> "Mata Atlântica" .
+<http://ligados.org/icmbio/7.0> <http://ligados.org/propriedade/uc> "APA Barra do Rio Mamanguape" .
+<http://ligados.org/icmbio/7.0> <http://ligados.org/propriedade/catnome> "Área de Proteção Ambiental" .
+<http://ligados.org/icmbio/7.0> <http://ligados.org/propriedade/bioma_vocab> "http://aims.fao.org/aos/agrovoc/c_fd44db40" .
+<http://ligados.org/icmbio/7.0> <http://ligados.org/propriedade/bioma> "Marinho-Costeiro" .
+<http://ligados.org/icmbio/20.0> <http://ligados.org/propriedade/uc> "APA Carste da Lagoa Santa" .
+<http://ligados.org/icmbio/20.0> <http://ligados.org/propriedade/catnome> "Área de Proteção Ambiental" .
+<http://ligados.org/icmbio/20.0> <http://ligados.org/propriedade/bioma_vocab> "http://aims.fao.org/aos/agrovoc/c_6825" .
+<http://ligados.org/icmbio/20.0> <http://ligados.org/propriedade/bioma> "Cerrado" .
+<http://ligados.org/icmbio/2.0> <http://ligados.org/propriedade/uc> "APA Cavernas do Peruaçu" .
+<http://ligados.org/icmbio/2.0> <http://ligados.org/propriedade/catnome> "Área de Proteção Ambiental" .
+<http://ligados.org/icmbio/2.0> <http://ligados.org/propriedade/bioma_vocab> "http://aims.fao.org/aos/agrovoc/c_6825" .
+<http://ligados.org/icmbio/2.0> <http://ligados.org/propriedade/bioma> "Cerrado" .
+<http://ligados.org/icmbio/8.0> <http://ligados.org/propriedade/uc> "APA Chapada do Araripe" .
+<http://ligados.org/icmbio/8.0> <http://ligados.org/propriedade/catnome> "Área de Proteção Ambiental" .
+<http://ligados.org/icmbio/8.0> <http://ligados.org/propriedade/bioma_vocab> "http://aims.fao.org/aos/agrovoc/c_6862" .
+<http://ligados.org/icmbio/8.0> <http://ligados.org/propriedade/bioma> "Caatinga" .
+<http://ligados.org/icmbio/1912.0> <http://ligados.org/propriedade/uc> "APA Costa das Algas" .
+<http://ligados.org/icmbio/1912.0> <http://ligados.org/propriedade/catnome> "Área de Proteção Ambiental" .
+<http://ligados.org/icmbio/1912.0> <http://ligados.org/propriedade/bioma_vocab> "http://aims.fao.org/aos/agrovoc/c_7976" .
+<http://ligados.org/icmbio/1912.0> <http://ligados.org/propriedade/bioma> "Mata Atlântica" .
+<http://ligados.org/icmbio/22.0> <http://ligados.org/propriedade/uc> "APA do Igarapé Gelado" .
+<http://ligados.org/icmbio/22.0> <http://ligados.org/propriedade/catnome> "Área de Proteção Ambiental" .
+<http://ligados.org/icmbio/22.0> <http://ligados.org/propriedade/bioma_vocab> "http://aims.fao.org/aos/agrovoc/c_7976" .
+<http://ligados.org/icmbio/22.0> <http://ligados.org/propriedade/bioma> "Amazônia" .
+<http://ligados.org/icmbio/23.0> <http://ligados.org/propriedade/uc> "APA do Planalto Central" .
+<http://ligados.org/icmbio/23.0> <http://ligados.org/propriedade/catnome> "Área de Proteção Ambiental" .
+<http://ligados.org/icmbio/23.0> <http://ligados.org/propriedade/bioma_vocab> "http://aims.fao.org/aos/agrovoc/c_6825" .
+<http://ligados.org/icmbio/23.0> <http://ligados.org/propriedade/bioma> "Cerrado" .
+<http://ligados.org/icmbio/29.0> <http://ligados.org/propriedade/uc> "APA Serra da Ibiapaba" .
+<http://ligados.org/icmbio/29.0> <http://ligados.org/propriedade/catnome> "Área de Proteção Ambiental" .
+<http://ligados.org/icmbio/29.0> <http://ligados.org/propriedade/bioma_vocab> "http://aims.fao.org/aos/agrovoc/c_6862" .
+<http://ligados.org/icmbio/29.0> <http://ligados.org/propriedade/bioma> "Caatinga" .
+<http://ligados.org/icmbio/11.0> <http://ligados.org/propriedade/uc> "APA Serra da Mantiqueira" .
+<http://ligados.org/icmbio/11.0> <http://ligados.org/propriedade/catnome> "Área de Proteção Ambiental" .
+<http://ligados.org/icmbio/11.0> <http://ligados.org/propriedade/bioma_vocab> "http://aims.fao.org/aos/agrovoc/c_7976" .
+<http://ligados.org/icmbio/11.0> <http://ligados.org/propriedade/bioma> "Mata Atlântica" .
+<http://ligados.org/icmbio/1683.0> <http://ligados.org/propriedade/uc> "APA Serra da Meruoca" .
+<http://ligados.org/icmbio/1683.0> <http://ligados.org/propriedade/catnome> "Área de Proteção Ambiental" .
+<http://ligados.org/icmbio/1683.0> <http://ligados.org/propriedade/bioma_vocab> "http://aims.fao.org/aos/agrovoc/c_6862" .
+<http://ligados.org/icmbio/1683.0> <http://ligados.org/propriedade/bioma> "Caatinga" .
+<http://ligados.org/icmbio/12.0> <http://ligados.org/propriedade/uc> "APA Serra da Tabatinga" .
+<http://ligados.org/icmbio/12.0> <http://ligados.org/propriedade/catnome> "Área de Proteção Ambiental" .
+<http://ligados.org/icmbio/12.0> <http://ligados.org/propriedade/bioma_vocab> "http://aims.fao.org/aos/agrovoc/c_6825" .
+<http://ligados.org/icmbio/12.0> <http://ligados.org/propriedade/bioma> "Cerrado" .
+<http://ligados.org/icmbio/21.0> <http://ligados.org/propriedade/uc> "APA Ibirapuitã" .
+<http://ligados.org/icmbio/21.0> <http://ligados.org/propriedade/catnome> "Área de Proteção Ambiental" .
+<http://ligados.org/icmbio/21.0> <http://ligados.org/propriedade/bioma_vocab> "http://aims.fao.org/aos/agrovoc/c_5522" .
+<http://ligados.org/icmbio/21.0> <http://ligados.org/propriedade/bioma> "Pampas" .

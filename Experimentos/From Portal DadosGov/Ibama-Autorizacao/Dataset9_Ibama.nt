@@ -1,0 +1,74 @@
+<http://ligados.org/ibama/UF/RS> <http://ligados.org/propriedade/bioma_vocab> <http://aims.fao.org/aos/agrovoc/c_5522> .
+<http://ligados.org/ibama/UF/MS> <http://ligados.org/propriedade/bioma_vocab> <http://pantanal> .
+<http://ligados.org/ibama/UF/PE> <http://ligados.org/propriedade/bioma_vocab> <http://aims.fao.org/aos/agrovoc/c_7976> .
+<http://ligados.org/ibama/UF/RO> <http://ligados.org/propriedade/bioma_vocab> <http://aims.fao.org/aos/agrovoc/c_7976> .
+<http://ligados.org/ibama/UF/SC> <http://ligados.org/propriedade/bioma_vocab> <http://aims.fao.org/aos/agrovoc/c_6825> .
+<http://ligados.org/ibama/UF/SE> <http://ligados.org/propriedade/bioma_vocab> <http://aims.fao.org/aos/agrovoc/c_6862> .
+<http://ligados.org/ibama/UF/AM> <http://ligados.org/propriedade/bioma_vocab> <http://aims.fao.org/aos/agrovoc/c_7976> .
+<http://ligados.org/ibama/UF/AM> <http://ligados.org/propriedade/bioma_vocab> <http://aims.fao.org/aos/agrovoc/c_7976> .
+<http://ligados.org/ibama/UF/CE> <http://ligados.org/propriedade/bioma_vocab> <http://aims.fao.org/aos/agrovoc/c_6862> .
+<http://ligados.org/ibama/UF/RS> <http://ligados.org/propriedade/estado> <http://dbpedia.org/page/Rio_Grande_do_Sul> .
+<http://ligados.org/ibama/UF/MS> <http://ligados.org/propriedade/estado> <http://dbpedia.org/page/Mato_Grosso_do_Sul> .
+<http://ligados.org/ibama/UF/PE> <http://ligados.org/propriedade/estado> <http://dbpedia.org/page/Pernambuco> .
+#<http://ligados.org/ibama/UF/RO> <http://ligados.org/propriedade/estado> <http://dbpedia.org/page/Rond%C3%B4nia> .
+<http://ligados.org/ibama/UF/RO> <http://ligados.org/propriedade/estado> <http://dbpedia.org/page/Rondônia> .
+<http://ligados.org/ibama/UF/SC> <http://ligados.org/propriedade/estado> <http://dbpedia.org/page/Santa_Catarina_(state)> .
+<http://ligados.org/ibama/UF/SE> <http://ligados.org/propriedade/estado> <http://dbpedia.org/page/Sergipe> .
+<http://ligados.org/ibama/UF/AM> <http://ligados.org/propriedade/estado> <http://dbpedia.org/page/Amazonas_(Brazilian_state)> .
+<http://ligados.org/ibama/UF/AM> <http://ligados.org/propriedade/estado> <http://dbpedia.org/page/Amazonas_(Brazilian_state)> .
+#<http://ligados.org/ibama/UF/CE> <http://ligados.org/propriedade/estado> <http://dbpedia.org/page/Cear%C3%A1> .
+<http://ligados.org/ibama/UF/CE> <http://ligados.org/propriedade/estado> <http://dbpedia.org/page/Ceará> .
+<http://ligados.org/ibama/UF/RS> <http://ligados.org/propriedade/municipio> "IVOTI" .
+<http://ligados.org/ibama/UF/RS> <http://ligados.org/propriedade/nome_detentor> "CADC" .
+<http://ligados.org/ibama/UF/RS> <http://ligados.org/propriedade/cpf> "486.***.***-**" .
+<http://ligados.org/ibama/UF/RS> <http://ligados.org/propriedade/bioma> "Pampa" .
+<http://ligados.org/ibama/UF/RS> <http://ligados.org/propriedade/finalidade_supressao_vocab> "Outros" .
+<http://ligados.org/ibama/UF/RS> <http://ligados.org/propriedade/finalidade_supressao> "Outros" .
+<http://ligados.org/ibama/UF/MS> <http://ligados.org/propriedade/municipio> "CORUMBA" .
+<http://ligados.org/ibama/UF/MS> <http://ligados.org/propriedade/nome_detentor> "MINERAÇÃO CORUMBAENSE REUNIDA S/A" .
+<http://ligados.org/ibama/UF/MS> <http://ligados.org/propriedade/cpf> "03.327.988/0004-39" .
+<http://ligados.org/ibama/UF/MS> <http://ligados.org/propriedade/bioma> "Pantanal" .
+<http://ligados.org/ibama/UF/MS> <http://ligados.org/propriedade/finalidade_supressao_vocab> <http://www.eionet.europa.eu/gemet/concept/14837> .
+<http://ligados.org/ibama/UF/MS> <http://ligados.org/propriedade/finalidade_supressao> "Mineração" .
+<http://ligados.org/ibama/UF/PE> <http://ligados.org/propriedade/municipio> "CABO DE SANTO AGOSTINHO" .
+<http://ligados.org/ibama/UF/PE> <http://ligados.org/propriedade/nome_detentor> "SUAPE - COMPLEXO IND. PORT. GOV. ERALDO GUEIROS" .
+<http://ligados.org/ibama/UF/PE> <http://ligados.org/propriedade/cpf> "11.448.933/0001-62" .
+<http://ligados.org/ibama/UF/PE> <http://ligados.org/propriedade/bioma> "Mata Atlântica" .
+<http://ligados.org/ibama/UF/PE> <http://ligados.org/propriedade/finalidade_supressao_vocab> "Outros" .
+<http://ligados.org/ibama/UF/PE> <http://ligados.org/propriedade/finalidade_supressao> "Outros" .
+<http://ligados.org/ibama/UF/RO> <http://ligados.org/propriedade/municipio> "ESPIGAO D'OESTE" .
+<http://ligados.org/ibama/UF/RO> <http://ligados.org/propriedade/nome_detentor> "MERIDIAN MINERAÇÃO JABURI S.A" .
+<http://ligados.org/ibama/UF/RO> <http://ligados.org/propriedade/cpf> "07.324.592/0001-46" .
+<http://ligados.org/ibama/UF/RO> <http://ligados.org/propriedade/bioma> "Floresta Amazônica" .
+<http://ligados.org/ibama/UF/RO> <http://ligados.org/propriedade/finalidade_supressao_vocab> <http://www.eionet.europa.eu/gemet/concept/14837> .
+<http://ligados.org/ibama/UF/RO> <http://ligados.org/propriedade/finalidade_supressao> "Mineração" .
+<http://ligados.org/ibama/UF/SC> <http://ligados.org/propriedade/municipio> "LUIZ ALVES" .
+<http://ligados.org/ibama/UF/SC> <http://ligados.org/propriedade/nome_detentor> "DEPTO. NAC. DE INFRA-ESTRUT. DE TRANSP" .
+<http://ligados.org/ibama/UF/SC> <http://ligados.org/propriedade/cpf> "04.892.707/0001-00" .
+<http://ligados.org/ibama/UF/SC> <http://ligados.org/propriedade/bioma> "Cerrado" .
+<http://ligados.org/ibama/UF/SC> <http://ligados.org/propriedade/finalidade_supressao_vocab> <http://www.eionet.europa.eu/gemet/concept/1001> .
+<http://ligados.org/ibama/UF/SC> <http://ligados.org/propriedade/finalidade_supressao> "Ponte" .
+<http://ligados.org/ibama/UF/SE> <http://ligados.org/propriedade/municipio> "ARACAJU" .
+<http://ligados.org/ibama/UF/SE> <http://ligados.org/propriedade/nome_detentor> "LINHAS DE ENERGIA DO SERTÃO TRANSMISSORA S.A." .
+<http://ligados.org/ibama/UF/SE> <http://ligados.org/propriedade/cpf> "24.100.518/0001-65" .
+<http://ligados.org/ibama/UF/SE> <http://ligados.org/propriedade/bioma> "Caatinga" .
+<http://ligados.org/ibama/UF/SE> <http://ligados.org/propriedade/finalidade_supressao_vocab> "Linha de transmissão" .
+<http://ligados.org/ibama/UF/SE> <http://ligados.org/propriedade/finalidade_supressao> "Linha de transmissão" .
+<http://ligados.org/ibama/UF/AM> <http://ligados.org/propriedade/municipio> "COARI" .
+<http://ligados.org/ibama/UF/AM> <http://ligados.org/propriedade/nome_detentor> "PETROBRAS - PETRÓLEO BRASILEIRO S.A." .
+<http://ligados.org/ibama/UF/AM> <http://ligados.org/propriedade/cpf> "33.000.167/1119-57" .
+<http://ligados.org/ibama/UF/AM> <http://ligados.org/propriedade/bioma> "Floresta Amazônica" .
+<http://ligados.org/ibama/UF/AM> <http://ligados.org/propriedade/finalidade_supressao_vocab> "Outros" .
+<http://ligados.org/ibama/UF/AM> <http://ligados.org/propriedade/finalidade_supressao> "Outros" .
+<http://ligados.org/ibama/UF/AM> <http://ligados.org/propriedade/municipio> "MANAUS" .
+<http://ligados.org/ibama/UF/AM> <http://ligados.org/propriedade/nome_detentor> "NOA" .
+<http://ligados.org/ibama/UF/AM> <http://ligados.org/propriedade/cpf> "407.***.***-**" .
+<http://ligados.org/ibama/UF/AM> <http://ligados.org/propriedade/bioma> "Floresta Amazônica" .
+<http://ligados.org/ibama/UF/AM> <http://ligados.org/propriedade/finalidade_supressao_vocab> "Outros" .
+<http://ligados.org/ibama/UF/AM> <http://ligados.org/propriedade/finalidade_supressao> "Outros" .
+<http://ligados.org/ibama/UF/CE> <http://ligados.org/propriedade/municipio> "BEBERIBE" .
+<http://ligados.org/ibama/UF/CE> <http://ligados.org/propriedade/nome_detentor> "DEPARTAMENTO DE EDIFICACOES E RODOVIAS - DER" .
+<http://ligados.org/ibama/UF/CE> <http://ligados.org/propriedade/cpf> "07.280.803/0001-96" .
+<http://ligados.org/ibama/UF/CE> <http://ligados.org/propriedade/bioma> "Caatinga" .
+<http://ligados.org/ibama/UF/CE> <http://ligados.org/propriedade/finalidade_supressao_vocab> <http://www.eionet.europa.eu/gemet/concept/7272> .
+<http://ligados.org/ibama/UF/CE> <http://ligados.org/propriedade/finalidade_supressao> "Rodovia" .

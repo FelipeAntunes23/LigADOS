@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+ xmlns:time="http://www.w3.org/2006/time#"
+ xmlns:dct="http://purl.org/dc/terms/"
+ xmlns:dcat="http://www.w3.org/ns/dcat#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<dcat:Catalog rdf:about="http://localhost/pt_BR/">
+  <dct:identifier>http://localhost/pt_BR/</dct:identifier>
+  <dct:title>Bem vindo - CKAN-Ligados</dct:title>
+  <dct:description>LigADOS</dct:description>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-07-06T00:00:00Z</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-07-07T09:38:45Z</dct:modified>
+  <dct:language>pt_BR</dct:language>
+  <foaf:homepage rdf:resource="http://localhost/pt_BR/"/>  
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif">
+      <dct:identifier>sistema-nacional-de-informacoes-florestais-snif</dct:identifier>
+      <dct:title>Sistema Nacional de Informações Florestais - SNIF</dct:title>
+      <dct:description>O Serviço Florestal Brasileiro tem como uma de suas competências, estabelecidas na Lei nº 11.284, de 2 de março de 2006, criar e manter o Sistema Nacional de Informações Florestais - SNIF, integrado ao Sistema Nacional de Informações sobre o Meio Ambiente - SINIMA. O SNIF tem como objetivo geral colecionar e produzir, organizar, armazenar, processar e disseminar dados, informações e conhecimentos sobre as florestas e o setor florestal, de modo a subsidiar projetos e políticas que conciliem o uso e a conservação das florestas do Brasil.</dct:description>
+      <dcat:keyword>Amazonia</dcat:keyword>
+	  <dcat:keyword>Amazonia legal</dcat:keyword>
+	  <dcat:keyword>Biomas</dcat:keyword>
+	  <dcat:keyword>Certificacao Florestal</dcat:keyword>  	  
+	  <dcat:keyword>Certificado Florestal</dcat:keyword>
+	  <dcat:keyword>Desmatamento</dcat:keyword>
+	  <dcat:keyword>Extracao de Produto</dcat:keyword>
+	  <dcat:keyword>Floresta</dcat:keyword>  	  
+	  <dcat:keyword>Floresta Plantada</dcat:keyword>
+	  <dcat:keyword>Focos de calor</dcat:keyword>
+	  <dcat:keyword>Incendios Florestais</dcat:keyword>
+	  <dcat:keyword>Informacoes Florestais</dcat:keyword>  	  	  
+	  <dcat:keyword>Produtos florestais madeireiros</dcat:keyword>
+	  <dcat:keyword>Produtos florestais nao madeireiros</dcat:keyword>
+	  <dcat:keyword>SFB</dcat:keyword>
+	  <dcat:keyword>Servico Florestal Brasileiro</dcat:keyword>  
+	  <dcat:keyword>Terras Indigenas</dcat:keyword>
+	  <dcat:keyword>Unidades de Conservacao</dcat:keyword>  	  	  
+      <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-07-07T11:54:00Z</dct:issued>
+      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-10-19T14:24:00Z</dct:modified>
+      <dct:language>pt_BR</dct:language>
+	  <dct:publisher rdf:resource="http://localhost/pt_BR/organization/ministerio-do-meio-ambiente-mma"/>      
+	  <dcat:distribution rdf:resource="http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/59ae4feb-285c-42f3-a286-a21b7424a877"/>     
+	  <dcat:distribution rdf:resource="http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/4c8857ed-e913-4200-acb1-c3d96449cd34"/>              
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social">
+      <dct:identifier>orcamento-federal-orcamento-fiscal-e-da-seguridade-social</dct:identifier>
+      <dct:title>Orçamento Federal - Orçamento Fiscal e da Seguridade Social</dct:title>
+      <dct:description>Contém dados da execução orçamentária e financeira da despesa orçamentária aprovada na lei orçamentária e créditos adicionais (orçamentos fiscal e da seguridade social), de acordo com sua classificação Funcional-Programática, respectiva dotação autorizada, empenho, liquidação e pagamento* de órgãos da União para os exercícios financeiros desde 2000 até o ano corrente.
+As informações de liquidação e pagamento referem-se apenas à execução realizada dentro do exercício de referência; aquilo que fora executado em outros exercícios por meio de Inscrição em Restos a Pagar não é contabilizado nestes campos.
+Conceito
+O orçamento anual compreende a receita prevista e a despesa fixada pelo Governo para determinado exercício financeiro (ano civil). É no Orçamento que o cidadão identifica a alocação dos recursos que o governo recolhe sob a forma de tributos: nenhuma despesa pública pode ser realizada sem estar fixada no Orçamento. Ele é elaborado pelo Poder Executivo e aprovado pelo Poder Legislativo. Mais informações sobre a classificação Funcional-Programática da despesa podem ser encontradas no Manual Técnico do Orçamento – MTO, de publicação periódica anual.
+Legislação
+Constituição Federal; Lei 4320/1964, Lei Complementar nº 101/2000 (Lei de Responsabilidade Fiscal), Lei de Diretrizes Orçamentárias (anual), Lei Orçamentária (anual), Manual Técnico do Orçamento (anual).
+Veja Também
+Ferramenta para consulta pública aos orçamentos fiscal e de seguridade social da União - Painel do Orçamento, disponível no endereço eletrônico: https://www1.siop.planejamento.gov.br/painelacessopublico Orçamento Cidadão - versão simplificada dos orçamentos anuais, publicado nas páginas dos orçamentos anuais no sítio eletrônico do Ministério do Planejamento, Desenvolvimento e Gestão, disponível no seguinte endereço: http://www.planejamento.gov.br/assuntos/orcamento-1/orcamentos-anuais
+Outras Informações
+Utiliza ontologia em linguagem OWL composta de declarações conceituais (T-Box) e dados (A-Box). Para maiores detalhes sobre o modelo ontológico, consulte a Ontologia do Orçamento (abaixo). Para mais informações sobre o orçamento, consulte o Manual Técnico de Orçamento (abaixo).
+</dct:description>
+    <dcat:keyword>Despesas Orcamentarias</dcat:keyword>
+    <dcat:keyword>Execucao Orcamentaria e Financeira</dcat:keyword>
+    <dcat:keyword>Execucao Orcamentaria</dcat:keyword>
+	<dcat:keyword>Ministerio do Planejamento</dcat:keyword>
+	<dcat:keyword>Orcamento Federal</dcat:keyword>
+	<dcat:keyword>Orcamento Fiscal</dcat:keyword>
+	<dcat:keyword>Orcamentos Fiscais e da Seguridade Social</dcat:keyword>
+	<dcat:keyword>Secretaria de Orcamento Federal</dcat:keyword>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-07</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-07</dct:modified>
+    <dct:language>pt_BR</dct:language>
+	<dct:publisher rdf:resource="http://localhost/pt_BR/organization/ministerio-da-economia-me"/>
+	<dcat:distribution rdf:resource="http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b"/>                    
+	<dcat:distribution rdf:resource="http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/b88936b8-28c0-474a-8aa9-b8e72b8b63be"/>	    
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao">
+      <dct:identifier>sinaflor-autorizacao-de-supressao-de-vegetacao</dct:identifier>
+      <dct:title>Sinaflor - Autorização de Supressão de Vegetação</dct:title>
+      <dct:description>Dados de solicitações/autorizações de licenciamento de exploração do tipo Autorização de Supressão de Vegetação (ASV) cadastrados no Sistema Nacional de Controle da Origem dos Produtos Florestais (Sinaflor).</dct:description>
+      <dcat:keyword>ASV</dcat:keyword>
+      <dcat:keyword>Autex</dcat:keyword>
+      <dcat:keyword>Autorizacao</dcat:keyword>
+	  <dcat:keyword>Autorizacao de Supressao</dcat:keyword>
+	  <dcat:keyword>Exploracao Florestal</dcat:keyword>
+	  <dcat:keyword>Produto Florestal</dcat:keyword>
+	  <dcat:keyword>Sinaflor</dcat:keyword>
+      <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-07</dct:issued>
+      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-07</dct:modified>
+      <dct:language>pt_BR</dct:language>
+      <dct:publisher rdf:resource="http://localhost/pt_BR/organization/instituto-brasileiro-do-meio-ambiente-e-dos-recursos-naturais-renovaveis-ibama"/>
+      <dcat:distribution rdf:resource="http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao/resource/4388ccaa-02e5-4dd4-baf5-0a99fd7932a2"/>      
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://localhost/pt_BR/dataset/vegetacao-de-mangue-brasileira">
+      <dct:identifier>vegetacao-de-mangue-brasileira</dct:identifier>
+      <dct:title>Vegetação de Mangue brasileira</dct:title>
+      <dct:description>Localização das áreas de mangue no litoral brasileiro.</dct:description>
+      <dcat:keyword>Mangue</dcat:keyword>
+      <dcat:keyword>Poligonos</dcat:keyword>
+      <dcat:keyword>Vegetacao</dcat:keyword>
+      <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-07</dct:issued>
+      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-07</dct:modified>
+      <dct:language>pt_BR</dct:language>
+      <dct:publisher rdf:resource="http://localhost/pt_BR/organization/instituto-brasileiro-do-meio-ambiente-e-dos-recursos-naturais-renovaveis-ibama"/>
+      <dcat:distribution rdf:resource="http://localhost/pt_BR/dataset/vegetacao-de-mangue-brasileira/resource/d2683b82-3b5b-4f7a-ad60-1710b52931d3"/>      
+    </dcat:Dataset>
+  </dcat:dataset>
+  <dcat:dataset>
+    <dcat:Dataset rdf:about="http://localhost/pt_BR/dataset/desmatamento-em-unidades-de-conservacao-federais">
+      <dct:identifier>desmatamento-em-unidades-de-conservacao-federais</dct:identifier>
+      <dct:title>Desmatamento em Unidades de Conservação Federais</dct:title>
+      <dct:description>Área desmatada por corte raso, em hectares, no interior de Unidades de Conservação Federais entre 2012 e 2018 - Mapeamento do desmatamento corte raso em toda a Amazônia Legal, gerado por sensoriamento remoto pelo INPE – Instituto Nacional de Pesquisas Espaciais, Sistema PRODES, a partir de imagens dos satélites Landsat. Estes são os dados oficiais de desmatamento, utilizados pelo Governo Brasileiro para o estabelecimento de políticas públicas. A Divisão de Monitoramento e Informações Ambientais (DMIF/CGPRO/DIMAN/ICMBio) processa os dados PRODES, indicando as áreas de desmatamento no interior das Unidades de Conservação Federais, subsidiando as ações de proteção do ICMBio.</dct:description>
+      <dcat:keyword>Biodiversidade</dcat:keyword>
+      <dcat:keyword>Desmatamento reserva de desenvolvimento</dcat:keyword>
+      <dcat:keyword>Especies</dcat:keyword>
+	  <dcat:keyword>Estacao Ecologica</dcat:keyword>
+	  <dcat:keyword>Floresta Nacional</dcat:keyword>
+	  <dcat:keyword>Monitoramento Ambiental</dcat:keyword>
+	  <dcat:keyword>Monumento Natural</dcat:keyword>
+	  <dcat:keyword>Parque Nacional</dcat:keyword>
+	  <dcat:keyword>Refugio de Vida silvestre</dcat:keyword>
+	  <dcat:keyword>Reserva Biologica</dcat:keyword>
+	  <dcat:keyword>Reserva de Fauna</dcat:keyword>
+	  <dcat:keyword>Reserva Extrativista</dcat:keyword>
+	  <dcat:keyword>Reserva particular</dcat:keyword>
+	  <dcat:keyword>Sensoriamento Remoto Unidade de Conservacao</dcat:keyword>
+	  <dcat:keyword>Area de Protecao Ambiental</dcat:keyword>
+	  <dcat:keyword>Area relevante</dcat:keyword>
+      <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-07</dct:issued>
+      <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2020-07-07</dct:modified>
+      <dct:language>pt_BR</dct:language>
+      <dct:publisher rdf:resource="http://localhost/pt_BR/organization/instituto-chico-mendes-de-conservacao-da-biodiversidade-icmbio"/>
+      <dcat:distribution rdf:resource="http://localhost/pt_BR/dataset/desmatamento-em-unidades-de-conservacao-federais/resource/04ca23ac-80c4-4ff8-b911-0a8e6e7a45a1"/>      
+    </dcat:Dataset>
+  </dcat:dataset>
+</dcat:Catalog>
+<dcat:Distribution rdf:about="http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/59ae4feb-285c-42f3-a286-a21b7424a877">        
+	<dct:title>Desmatamento - Bioma - estados - PMDBBS - ...</dct:title>
+    <dct:description>Dados sobre área das unidades de conservação cadastradas no CNUC (Cadastro Nacional de Unidades de Conservação), desagregadas por bioma.</dct:description>
+    <dcat:downloadURL rdf:resource="https://drive.google.com/file/d/1y8ve85-6b3mFUE2TUD5TgWcLHlnUDABV/view?usp=sharing"/>
+    <dct:format>RDF</dct:format>          
+</dcat:Distribution>
+<dcat:Distribution rdf:about="http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/4c8857ed-e913-4200-acb1-c3d96449cd34">      
+    <dct:title>Unidades de Conservação por Bioma 2018</dct:title>
+    <dct:description>Vendas de ingredientes em toneladas por unidade federativa em 2017.</dct:description>
+    <dcat:downloadURL rdf:resource="https://drive.google.com/file/d/14a5sFUNEw2u-8p--2K5_f-qeMOfh2g2b/view?usp=sharing"/>
+    <dct:format>RDF</dct:format>          
+</dcat:Distribution>
+<dcat:Distribution rdf:about="http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b">
+    <dct:title>Orçamento 2018 em RDF</dct:title>
+    <dct:description>Arquivo em formato RDF (zip) do Orçamento Federal Brasileiro de 2018 com triplas baseadas na [ontologia do orçamento federal brasileiro] (http://vocab.e.gov.br/2013/09/loa "Title") contendo valores de PLOA, LOA, Dotação Atual, Empenhado, Liquidado e Pago. Dados atualizados pelo dia anterior.</dct:description>
+    <dcat:downloadURL rdf:resource="https://drive.google.com/file/d/1ewXyGD2nXbNjs3B24C_A3xQjTjEt0fFF/view?usp=sharing"/>
+    <dct:format>RDF</dct:format>
+</dcat:Distribution>
+<dcat:Distribution rdf:about="http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/b88936b8-28c0-474a-8aa9-b8e72b8b63be">
+    <dct:title>Ontologia do Orçamento</dct:title>
+    <dct:description>Arquivo com a ontologia do orçamento em OWL.</dct:description>
+    <dcat:downloadURL rdf:resource="http://vocab.e.gov.br/2013/09/loa.owl"/>
+    <dct:format>RDF</dct:format>
+</dcat:Distribution>
+<dcat:Distribution rdf:about="http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao/resource/4388ccaa-02e5-4dd4-baf5-0a99fd7932a2">
+    <dct:title>Autorização de Supressão de Vegetação</dct:title>
+    <dct:description>Dados de solicitações/autorizações de licenciamento de exploração do tipo Autorização de Supressão de Vegetação (ASV) cadastrados no Sistema Nacional de Controle da Origem dos Produtos Florestais (Sinaflor).</dct:description>
+    <dcat:downloadURL rdf:resource="https://drive.google.com/file/d/1sS_EiX4xKT3eb1JL5H87L35cmBFFoavF/view?usp=sharing"/>
+    <dct:format>RDF</dct:format>
+</dcat:Distribution>
+<dcat:Distribution rdf:about="http://localhost/pt_BR/dataset/vegetacao-de-mangue-brasileira/resource/d2683b82-3b5b-4f7a-ad60-1710b52931d3">
+    <dct:title>Vegetação de mangue</dct:title>
+    <dct:description>Vegetação de mangue</dct:description>
+    <dcat:downloadURL rdf:resource="https://drive.google.com/file/d/1NdlbuObSWBsJexjUmoM1qCfj1Yu8Xz5h/view?usp=sharing"/>
+    <dct:format>RDF</dct:format>
+ </dcat:Distribution>
+<dcat:Distribution rdf:about="http://localhost/pt_BR/dataset/desmatamento-em-unidades-de-conservacao-federais/resource/04ca23ac-80c4-4ff8-b911-0a8e6e7a45a1">
+    <dct:title>Desmatamento em Unidades de Conservação ...</dct:title>
+    <dct:description>Mapeamento do desmatamento corte raso em toda a Amazônia Legal, gerado por sensoriamento remoto pelo INPE – Instituto Nacional de Pesquisas Espaciais, Sistema PRODES, a partir de imagens dos satélites Landsat. Estes são os dados oficiais de desmatamento, utilizados pelo Governo Brasileiro para o estabelecimento de políticas públicas. A Divisão de Monitoramento e Informações Ambientais (DMIF/CGPRO/DIMAN/ICMBio) processa os dados PRODES, indicando as áreas de desmatamento no interior das Unidades de Conservação Federais, subsidiando as ações de proteção do ICMBio.</dct:description>
+    <dcat:downloadURL rdf:resource="https://drive.google.com/file/d/1nrjGJDzwb3gqhrEBMvBnRHnMvVad4W6M/view?usp=sharing"/>
+    <dct:format>RDF</dct:format>
+</dcat:Distribution> 
+<foaf:Organization rdf:about="http://localhost/pt_BR/organization/ministerio-do-meio-ambiente-mma">
+	<foaf:name>Ministério do Meio Ambiente - MMA</foaf:name>
+</foaf:Organization>
+<foaf:Organization rdf:about="http://localhost/pt_BR/organization/ministerio-da-economia-me">
+	<foaf:name>Ministério da Economia - ME</foaf:name>            
+</foaf:Organization>
+<foaf:Organization rdf:about="http://localhost/pt_BR/organization/instituto-brasileiro-do-meio-ambiente-e-dos-recursos-naturais-renovaveis-ibama">
+    <foaf:name>Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama</foaf:name>     
+</foaf:Organization>
+<foaf:Organization rdf:about="http://localhost/pt_BR/organization/instituto-chico-mendes-de-conservacao-da-biodiversidade-icmbio">
+    <foaf:name>Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio</foaf:name>      
+</foaf:Organization>  
+</rdf:RDF>

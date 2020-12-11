@@ -1,0 +1,5 @@
+FID;nome;geometriaaproximada;denso;antropizada;classificacaoporte;bioma;uf;ecossit;op;data_img;sensor;comentario;nu_area_m2
+veg_mangue_a.3421;Mangue;2;0;0;;Cerrado;MA;Mangue;219062;2015-11-19;Landsat 8;Não alterado;8155397.7135
+veg_mangue_a.1175;Mangue;2;0;0;;Caatinga;PI;Mangue;219062;2015-08-06;Landsat 8;Não alterado;34785.891
+veg_mangue_a.5070;Mangue;2;0;0;;Amazônia;PA;Mangue;224060;2016-09-28;Landsat 8;Atualização de 2016;227182000
+veg_mangue_a.5341;Mangue;2;0;0;;Mata Atlântica;SC;Mangue;220078;2015-08-29;Landsat 8;Não alterado;6.2107

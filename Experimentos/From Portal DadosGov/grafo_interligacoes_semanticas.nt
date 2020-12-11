@@ -1,0 +1,186 @@
+<http://localhost/pt_BR/organization/instituto-chico-mendes-de-conservacao-da-biodiversidade-icmbio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://localhost/pt_BR/organization/instituto-chico-mendes-de-conservacao-da-biodiversidade-icmbio> <http://xmlns.com/foaf/0.1/name> "Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio" .
+<http://localhost/pt_BR/dataset/desmatamento-em-unidades-de-conservacao-federais> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://localhost/pt_BR/dataset/desmatamento-em-unidades-de-conservacao-federais> <http://purl.org/dc/terms/publisher> <http://localhost/pt_BR/organization/instituto-chico-mendes-de-conservacao-da-biodiversidade-icmbio> .
+<http://localhost/pt_BR/dataset/desmatamento-em-unidades-de-conservacao-federais/resource/04ca23ac-80c4-4ff8-b911-0a8e6e7a45a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://localhost/pt_BR/dataset/desmatamento-em-unidades-de-conservacao-federais/resource/04ca23ac-80c4-4ff8-b911-0a8e6e7a45a1> <http://purl.org/dc/terms/title> "Desmatamento em Unidades de Conservação ..." .
+<http://localhost/pt_BR/dataset/desmatamento-em-unidades-de-conservacao-federais> <http://www.w3.org/ns/dcat#distribution> <http://localhost/pt_BR/dataset/desmatamento-em-unidades-de-conservacao-federais/resource/04ca23ac-80c4-4ff8-b911-0a8e6e7a45a1>  .
+<http://localhost/pt_BR/dataset/desmatamento-em-unidades-de-conservacao-federais/resource/04ca23ac-80c4-4ff8-b911-0a8e6e7a45a1> <http://www.w3.org/ns/dcat#theme> <http://aims.fao.org/aos/agrovoc/> .
+<http://aims.fao.org/aos/agrovoc/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocommons/voaf#Vocabulary> .
+<http://aims.fao.org/aos/agrovoc/> <http://purl.org/vocab/vann/preferredNamespacePrefix> "aims-agrovoc" .
+<http://localhost/pt_BR/dataset/desmatamento-em-unidades-de-conservacao-federais/resource/04ca23ac-80c4-4ff8-b911-0a8e6e7a45a1> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_24904> .
+<http://aims.fao.org/aos/agrovoc/c_24904> <http://purl.org/dc/dcam/memberOf> <http://aims.fao.org/aos/agrovoc/> .
+<http://aims.fao.org/aos/agrovoc/c_24904> <http://www.w3.org/2000/01/rdf-schema#label> "Floresta tropical"@pt .
+<http://localhost/pt_BR/dataset/desmatamento-em-unidades-de-conservacao-federais/resource/04ca23ac-80c4-4ff8-b911-0a8e6e7a45a1> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_28143> .
+<http://aims.fao.org/aos/agrovoc/c_28143> <http://purl.org/dc/dcam/memberOf> <http://aims.fao.org/aos/agrovoc/> .
+<http://aims.fao.org/aos/agrovoc/c_28143> <http://www.w3.org/2000/01/rdf-schema#label> "Mato"@pt .
+<http://localhost/pt_BR/dataset/desmatamento-em-unidades-de-conservacao-federais/resource/04ca23ac-80c4-4ff8-b911-0a8e6e7a45a1> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_3366> .
+<http://aims.fao.org/aos/agrovoc/c_3366> <http://purl.org/dc/dcam/memberOf> <http://aims.fao.org/aos/agrovoc/> .
+<http://aims.fao.org/aos/agrovoc/c_3366> <http://www.w3.org/2000/01/rdf-schema#label> "Terra de pastagem"@pt .
+<http://aims.fao.org/aos/agrovoc/c_3366> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/ontology/Place> .
+<http://aims.fao.org/aos/agrovoc/c_3366> <http://www.w3.org/2000/01/rdf-schema#label> "lugar"@pt .
+<http://localhost/pt_BR/dataset/desmatamento-em-unidades-de-conservacao-federais/resource/04ca23ac-80c4-4ff8-b911-0a8e6e7a45a1> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_35654> .
+<http://aims.fao.org/aos/agrovoc/c_35654> <http://purl.org/dc/dcam/memberOf> <http://aims.fao.org/aos/agrovoc/> .
+<http://aims.fao.org/aos/agrovoc/c_35654> <http://www.w3.org/2000/01/rdf-schema#label> "Floresta de regiões húmidasl"@pt .
+<http://localhost/pt_BR/dataset/desmatamento-em-unidades-de-conservacao-federais/resource/04ca23ac-80c4-4ff8-b911-0a8e6e7a45a1> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_4607> .
+<http://aims.fao.org/aos/agrovoc/c_4607> <http://purl.org/dc/dcam/memberOf> <http://aims.fao.org/aos/agrovoc/> .
+<http://aims.fao.org/aos/agrovoc/c_4607> <http://www.w3.org/2000/01/rdf-schema#label> "Região marítima"@pt .
+<http://localhost/pt_BR/dataset/desmatamento-em-unidades-de-conservacao-federais/resource/04ca23ac-80c4-4ff8-b911-0a8e6e7a45a1> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_8176> .
+<http://aims.fao.org/aos/agrovoc/c_8176> <http://purl.org/dc/dcam/memberOf> <http://aims.fao.org/aos/agrovoc/> .
+<http://aims.fao.org/aos/agrovoc/c_8176> <http://www.w3.org/2000/01/rdf-schema#label> "Vegetação"@pt .
+##
+<http://localhost/pt_BR/organization/ministerio-do-meio-ambiente-mma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://localhost/pt_BR/organization/ministerio-do-meio-ambiente-mma> <http://xmlns.com/foaf/0.1/name> "Ministério do Meio Ambiente - MMA" .
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif> <http://purl.org/dc/terms/publisher> <http://localhost/pt_BR/organization/ministerio-do-meio-ambiente-mma> .
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/59ae4feb-285c-42f3-a286-a21b7424a877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/59ae4feb-285c-42f3-a286-a21b7424a877> <http://purl.org/dc/terms/title> "Desmatamento - Bioma - estados - PMDBBS - ..." .
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif> <http://www.w3.org/ns/dcat#distribution> <http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/59ae4feb-285c-42f3-a286-a21b7424a877> .
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/59ae4feb-285c-42f3-a286-a21b7424a877>  <http://www.w3.org/ns/dcat#theme> <http://aims.fao.org/aos/agrovoc/> .
+<http://aims.fao.org/aos/agrovoc/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocommons/voaf#Vocabulary> .
+<http://aims.fao.org/aos/agrovoc/> <http://purl.org/vocab/vann/preferredNamespacePrefix> "aims-agrovoc" .
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/59ae4feb-285c-42f3-a286-a21b7424a877> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_24904> .
+<http://aims.fao.org/aos/agrovoc/c_24904> <http://purl.org/dc/dcam/memberOf> <http://aims.fao.org/aos/agrovoc/> .
+<http://aims.fao.org/aos/agrovoc/c_24904> <http://www.w3.org/2000/01/rdf-schema#label> "Floresta tropical"@pt .
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/59ae4feb-285c-42f3-a286-a21b7424a877> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_28143> .
+<http://aims.fao.org/aos/agrovoc/c_28143> <http://purl.org/dc/dcam/memberOf> <http://aims.fao.org/aos/agrovoc/> .
+<http://aims.fao.org/aos/agrovoc/c_28143> <http://www.w3.org/2000/01/rdf-schema#label> "Mato"@pt .
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/59ae4feb-285c-42f3-a286-a21b7424a877> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_3366> .
+<http://aims.fao.org/aos/agrovoc/c_3366> <http://purl.org/dc/dcam/memberOf> <http://aims.fao.org/aos/agrovoc/> .
+<http://aims.fao.org/aos/agrovoc/c_3366> <http://www.w3.org/2000/01/rdf-schema#label> "Terra de pastagem"@pt .
+<http://aims.fao.org/aos/agrovoc/c_3366> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://dbpedia.org/ontology/Place> .
+<http://aims.fao.org/aos/agrovoc/c_3366> <http://www.w3.org/2000/01/rdf-schema#label> "lugar"@pt .
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/59ae4feb-285c-42f3-a286-a21b7424a877> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_35654> .
+<http://aims.fao.org/aos/agrovoc/c_35654> <http://purl.org/dc/dcam/memberOf> <http://aims.fao.org/aos/agrovoc/> .
+<http://aims.fao.org/aos/agrovoc/c_35654> <http://www.w3.org/2000/01/rdf-schema#label> "Floresta de regiões húmidasl"@pt .
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/59ae4feb-285c-42f3-a286-a21b7424a877> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_8176> .
+<http://aims.fao.org/aos/agrovoc/c_8176> <http://purl.org/dc/dcam/memberOf> <http://aims.fao.org/aos/agrovoc/> .
+<http://aims.fao.org/aos/agrovoc/c_8176> <http://www.w3.org/2000/01/rdf-schema#label> "Vegetação"@pt .
+#.
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/4c8857ed-e913-4200-acb1-c3d96449cd34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/4c8857ed-e913-4200-acb1-c3d96449cd34> <http://purl.org/dc/terms/title> "Unidades de Conservação por Bioma 2018" .
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif> <http://www.w3.org/ns/dcat#distribution> <http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/4c8857ed-e913-4200-acb1-c3d96449cd34> .
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/4c8857ed-e913-4200-acb1-c3d96449cd34> <http://www.w3.org/ns/dcat#theme> <http://aims.fao.org/aos/agrovoc/> .  
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/4c8857ed-e913-4200-acb1-c3d96449cd34> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_24904> .
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/4c8857ed-e913-4200-acb1-c3d96449cd34> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_28143> .
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/4c8857ed-e913-4200-acb1-c3d96449cd34> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_3366> .
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/4c8857ed-e913-4200-acb1-c3d96449cd34> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_35654> .
+<http://localhost/pt_BR/dataset/sistema-nacional-de-informacoes-florestais-snif/resource/4c8857ed-e913-4200-acb1-c3d96449cd34> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_8176> .
+##
+<http://localhost/pt_BR/organization/instituto-brasileiro-do-meio-ambiente-e-dos-recursos-naturais-renovaveis-ibama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://localhost/pt_BR/organization/instituto-brasileiro-do-meio-ambiente-e-dos-recursos-naturais-renovaveis-ibama> <http://xmlns.com/foaf/0.1/name> "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama" .
+<http://localhost/pt_BR/dataset/vegetacao-de-mangue-brasileira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://localhost/pt_BR/dataset/vegetacao-de-mangue-brasileira> <http://purl.org/dc/terms/publisher> <http://localhost/pt_BR/organization/instituto-brasileiro-do-meio-ambiente-e-dos-recursos-naturais-renovaveis-ibama> .
+<http://localhost/pt_BR/dataset/vegetacao-de-mangue-brasileira/resource/d2683b82-3b5b-4f7a-ad60-1710b52931d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://localhost/pt_BR/dataset/vegetacao-de-mangue-brasileira/resource/d2683b82-3b5b-4f7a-ad60-1710b52931d3> <http://purl.org/dc/terms/title> "Vegetação de mangue" .
+<http://localhost/pt_BR/dataset/vegetacao-de-mangue-brasileira> <http://www.w3.org/ns/dcat#distribution> <http://localhost/pt_BR/dataset/vegetacao-de-mangue-brasileira/resource/d2683b82-3b5b-4f7a-ad60-1710b52931d3> .
+<http://localhost/pt_BR/dataset/vegetacao-de-mangue-brasileira/resource/d2683b82-3b5b-4f7a-ad60-1710b52931d3> <http://www.w3.org/ns/dcat#theme> <http://dbpedia.org/ontology/> .
+<http://dbpedia.org/ontology/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocommons/voaf#Vocabulary> .
+<http://dbpedia.org/ontology/> <http://purl.org/vocab/vann/preferredNamespacePrefix> "dbpedia-ontology" .
+<http://localhost/pt_BR/dataset/vegetacao-de-mangue-brasileira/resource/d2683b82-3b5b-4f7a-ad60-1710b52931d3> <http://purl.org/dc/terms/references> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/ontology/Place> <http://purl.org/dc/dcam/memberOf> <http://dbpedia.org/ontology/> .
+<http://dbpedia.org/ontology/Place> <http://www.w3.org/2000/01/rdf-schema#label> "lugar"@pt .
+<http://localhost/pt_BR/dataset/vegetacao-de-mangue-brasileira/resource/d2683b82-3b5b-4f7a-ad60-1710b52931d3> <http://purl.org/dc/terms/references> <http://dbpedia.org/resource/States_of_Brazil> .
+<http://dbpedia.org/resource/States_of_Brazil> <http://purl.org/dc/dcam/memberOf> <http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/States_of_Brazil> <http://www.w3.org/2000/01/rdf-schema#label> "Unidades federativas do Brasil"@pt .
+#.
+<http://localhost/pt_BR/dataset/vegetacao-de-mangue-brasileira/resource/d2683b82-3b5b-4f7a-ad60-1710b52931d3> <http://www.w3.org/ns/dcat#theme> <http://aims.fao.org/aos/agrovoc/> .
+<http://aims.fao.org/aos/agrovoc/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocommons/voaf#Vocabulary> .
+<http://aims.fao.org/aos/agrovoc/> <http://purl.org/vocab/vann/preferredNamespacePrefix> "aims-agrovoc" .
+<http://localhost/pt_BR/dataset/vegetacao-de-mangue-brasileira/resource/d2683b82-3b5b-4f7a-ad60-1710b52931d3> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_1100> .
+<http://aims.fao.org/aos/agrovoc/c_1100> <http://purl.org/dc/dcam/memberOf> <http://aims.fao.org/aos/agrovoc/> .
+<http://aims.fao.org/aos/agrovoc/c_1100> <http://www.w3.org/2000/01/rdf-schema#label> "Floresta de folhosas"@pt .
+<http://localhost/pt_BR/dataset/vegetacao-de-mangue-brasileira/resource/d2683b82-3b5b-4f7a-ad60-1710b52931d3> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_24904> .
+<http://localhost/pt_BR/dataset/vegetacao-de-mangue-brasileira/resource/d2683b82-3b5b-4f7a-ad60-1710b52931d3> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_28143> .
+<http://localhost/pt_BR/dataset/vegetacao-de-mangue-brasileira/resource/d2683b82-3b5b-4f7a-ad60-1710b52931d3> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_35654> .
+<http://localhost/pt_BR/dataset/vegetacao-de-mangue-brasileira/resource/d2683b82-3b5b-4f7a-ad60-1710b52931d3> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_8176> .
+##
+<http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao> <http://purl.org/dc/terms/publisher> <http://localhost/pt_BR/organization/instituto-brasileiro-do-meio-ambiente-e-dos-recursos-naturais-renovaveis-ibama> .
+<http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao/resource/4388ccaa-02e5-4dd4-baf5-0a99fd7932a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao/resource/4388ccaa-02e5-4dd4-baf5-0a99fd7932a2> <http://purl.org/dc/terms/title> "Autorização de Supressão de Vegetação" .
+<http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao> <http://www.w3.org/ns/dcat#distribution> <http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao/resource/4388ccaa-02e5-4dd4-baf5-0a99fd7932a2> .
+<http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao/resource/4388ccaa-02e5-4dd4-baf5-0a99fd7932a2> <http://www.w3.org/ns/dcat#theme> <http://aims.fao.org/aos/agrovoc/> .
+<http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao/resource/4388ccaa-02e5-4dd4-baf5-0a99fd7932a2> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_24904> .
+<http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao/resource/4388ccaa-02e5-4dd4-baf5-0a99fd7932a2> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_28143> .
+<http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao/resource/4388ccaa-02e5-4dd4-baf5-0a99fd7932a2> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_3366> .
+<http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao/resource/4388ccaa-02e5-4dd4-baf5-0a99fd7932a2> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_35654> .
+<http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao/resource/4388ccaa-02e5-4dd4-baf5-0a99fd7932a2> <http://purl.org/dc/terms/references> <http://aims.fao.org/aos/agrovoc/c_8176> .
+<http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao/resource/4388ccaa-02e5-4dd4-baf5-0a99fd7932a2> <http://www.w3.org/ns/dcat#theme> <http://dbpedia.org/ontology/> .
+<http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao/resource/4388ccaa-02e5-4dd4-baf5-0a99fd7932a2> <http://purl.org/dc/terms/references> <http://dbpedia.org/ontology/Place> .
+<http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao/resource/4388ccaa-02e5-4dd4-baf5-0a99fd7932a2> <http://purl.org/dc/terms/references> <http://dbpedia.org/resource/States_of_Brazil> .
+<http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao/resource/4388ccaa-02e5-4dd4-baf5-0a99fd7932a2> <http://www.w3.org/ns/dcat#theme> <http://www.eionet.europa.eu/gemet/concept/> .
+<http://www.eionet.europa.eu/gemet/concept/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocommons/voaf#Vocabulary> .
+<http://www.eionet.europa.eu/gemet/concept/> <http://purl.org/vocab/vann/preferredNamespacePrefix> "eionet-gemet" .
+<http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao/resource/4388ccaa-02e5-4dd4-baf5-0a99fd7932a2> <http://purl.org/dc/terms/references> <http://www.eionet.europa.eu/gemet/concept/11277> .
+<http://www.eionet.europa.eu/gemet/concept/11277> <http://purl.org/dc/dcam/memberOf> <http://www.eionet.europa.eu/gemet/concept/> .
+<http://www.eionet.europa.eu/gemet/concept/11277> <http://www.w3.org/2000/01/rdf-schema#label> "redes rodoviárias"@pt . 
+<http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao/resource/4388ccaa-02e5-4dd4-baf5-0a99fd7932a2> <http://purl.org/dc/terms/references> <http://www.eionet.europa.eu/gemet/concept/3087> .
+<http://www.eionet.europa.eu/gemet/concept/3087> <http://purl.org/dc/dcam/memberOf> <http://www.eionet.europa.eu/gemet/concept/> .
+<http://www.eionet.europa.eu/gemet/concept/3087> <http://www.w3.org/2000/01/rdf-schema#label> "extracção"@pt .
+<http://localhost/pt_BR/dataset/sinaflor-autorizacao-de-supressao-de-vegetacao/resource/4388ccaa-02e5-4dd4-baf5-0a99fd7932a2> <http://purl.org/dc/terms/references> <http://www.eionet.europa.eu/gemet/concept/8590> .
+<http://www.eionet.europa.eu/gemet/concept/8590> <http://purl.org/dc/dcam/memberOf> <http://www.eionet.europa.eu/gemet/concept/> .
+<http://www.eionet.europa.eu/gemet/concept/8590> <http://www.w3.org/2000/01/rdf-schema#label> "infra-estruturas do tráfego"@pt .
+##
+<http://localhost/pt_BR/organization/ministerio-da-economia-me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://localhost/pt_BR/organization/ministerio-da-economia-me>  <http://xmlns.com/foaf/0.1/name> "Ministério da Economia - ME" .
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Dataset> .
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social> <http://purl.org/dc/terms/publisher> <http://localhost/pt_BR/organization/ministerio-da-economia-me> .
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/title> "Orçamento 2018 em RDF" .
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social> <http://www.w3.org/ns/dcat#distribution> <http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> .
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://www.w3.org/ns/dcat#theme> <http://vocab.e.gov.br/2013/09/loa#> .
+<http://vocab.e.gov.br/2013/09/loa#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocommons/voaf#Vocabulary> .
+<http://vocab.e.gov.br/2013/09/loa#> <http://purl.org/vocab/vann/preferredNamespacePrefix> "vocab-loa" .
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#ItemDespesa> .
+<http://vocab.e.gov.br/2013/09/loa#ItemDespesa> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#Subtitulo> .
+<http://vocab.e.gov.br/2013/09/loa#Subtitulo> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#IdentificadorUso> .
+<http://vocab.e.gov.br/2013/09/loa#IdentificadorUso> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#ElementoDespesa> .
+<http://vocab.e.gov.br/2013/09/loa#ElementoDespesa> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#Funcao> .
+<http://vocab.e.gov.br/2013/09/loa#Funcao> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#Esfera> .
+<http://vocab.e.gov.br/2013/09/loa#Esfera> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#Acao> .
+<http://vocab.e.gov.br/2013/09/loa#Acao> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#Atividade> .
+<http://vocab.e.gov.br/2013/09/loa#Atividade> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#Projeto> .
+<http://vocab.e.gov.br/2013/09/loa#Projeto> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#OperacaoEspecial> .
+<http://vocab.e.gov.br/2013/09/loa#OperacaoEspecial> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#GrupoNatDespesa> .
+<http://vocab.e.gov.br/2013/09/loa#GrupoNatDespesa> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#Exercicio> .
+<http://vocab.e.gov.br/2013/09/loa#Exercicio> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#CategoriaEconomica> .
+<http://vocab.e.gov.br/2013/09/loa#CategoriaEconomica> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#FonteRecursos> .
+<http://vocab.e.gov.br/2013/09/loa#FonteRecursos> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#PlanoOrcamentario> .
+<http://vocab.e.gov.br/2013/09/loa#PlanoOrcamentario> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#ModalidadeAplicacao> .
+<http://vocab.e.gov.br/2013/09/loa#ModalidadeAplicacao> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#Programa> .
+<http://vocab.e.gov.br/2013/09/loa#Programa> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#Subfuncao> .
+<http://vocab.e.gov.br/2013/09/loa#Subfuncao> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#UnidadeOrcamentaria> .
+<http://vocab.e.gov.br/2013/09/loa#UnidadeOrcamentaria> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/c1650db3-71af-4bed-b092-d4ff1272612b> <http://purl.org/dc/terms/references> <http://vocab.e.gov.br/2013/09/loa#ResultadoPrimario> .
+<http://vocab.e.gov.br/2013/09/loa#ResultadoPrimario> <http://purl.org/dc/dcam/memberOf> <http://vocab.e.gov.br/2013/09/loa#> . 
+#
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/b88936b8-28c0-474a-8aa9-b8e72b8b63be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/dcat#Distribution> .
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/b88936b8-28c0-474a-8aa9-b8e72b8b63be> <http://purl.org/dc/terms/title> "Ontologia do Orçamento" .
+<http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social> <http://www.w3.org/ns/dcat#distribution> <http://localhost/pt_BR/dataset/orcamento-federal-orcamento-fiscal-e-da-seguridade-social/resource/b88936b8-28c0-474a-8aa9-b8e72b8b63be> .
+#
+#SOLUCAO_DE_PROJETO:Definicao_de_tipos_para_que_o_GraphDB_apresente_o_grafo_com_nodos_de_diferentes_cores._Estas_definicoes_sao_para_tipos_de_metadados. 
+<http://www.w3.org/ns/dcat#Dataset> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ConjuntoDeDados> .
+<http://xmlns.com/foaf/0.1/Organization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://Organizacao> .
+<http://purl.org/vocommons/voaf#Vocabulary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://Vocabulario> .
+<http://www.w3.org/ns/dcat#Distribution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://Distribuicao> .
+
+
